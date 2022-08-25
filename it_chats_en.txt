@@ -1,0 +1,224 @@
+🌳 Operating Systems
+@unix9 @unixusergroup
+@posixchat @linux_group
+https://t.me/joinchat/AAAAAEJIlclCRzYqrMYwNQ
+@guildoflinux @venomlinux
+🌿 RedHat
+@fedoraama @fedora
+🌿 Arch
+@manjaro @artixlinux
+@archlinuxgroup @archlinuxarmgroup
+🌿 Debian
+@debian_gnulinux @deepin
+🌿 DE & WM
+@kdeneon @swaywm
+🌿 BSD
+@nomadbsd_public
+@freebsd1 @dflybsd
+
+
+
+
+
+🌳 Programming
+@linuxkernelnewbies
+Functional Programming
+
+
+
+
+
+🌳 IDE
+@neovim
+@emacs_en @emacs_telega
+
+
+
+
+
+🌳 C & C++
+https://t.me/joinchat/AAAAAD_cJVeMzHBQMtxB5w
+@programminginc @cplusplusqt
+@cppunchainedgroup @c_cpp_india
+
+
+
+
+
+🌳 Java
+@javaprogrammingchat
+@springbootmicroservices
+@springbootspringdatajpa
+https://t.me/joinchat/AAAAAEHS8_F0yoL401QNuQ
+@hibernatechat
+
+
+
+
+
+🌳 Python
+@python @django
+https://t.me/joinchat/AAAAAEI6mgRpU8Ook_LZiQ
+@pydataco @pygameworld
+@pythonforbeginners @python_talk
+@ponyorm @peeweechat @python_starlette
+
+
+
+
+
+🌳 JavaScript & Frontend
+https://t.me/joinchat/AAAAAEEU-CGtxqPvZzRXug
+@javascriptgroup
+@ioniccommunity
+@javascriptdevelopersgroup
+🌿 Angular
+@a_ngular @ngdev
+@angulardevelopers
+🌿 React
+@react_en @reactnative_devs
+
+
+
+
+
+🌳 Other Languages
+
+🌿 Ada
+@ada_lang
+🌿 C#
+@vcsharp
+https://t.me/joinchat/BkBvqUMHMofJD5zUIN16wg
+🌿 Crystal
+@crystallang
+🌿 D
+@dlanggroup
+🌿 Dart
+@flutterdart
+🌿 Go
+https://t.me/joinchat/BkBvqUQTWYNc170pxYOQJQ
+🌿 Hy
+@hylang
+🌿 Lua
+@lualang
+🌿 Pascal
+@freepascal_en
+🌿 PHP
+https://t.me/joinchat/AAAAAEI7auDV7fUlhQpKbw
+@phpize_online
+@laravel_discuss
+🌿 Rust
+@rustdevs
+🌿 Scala
+@scala_en
+🌿 V
+@vlang_en
+
+
+
+
+
+🌳 Computer Graphics & GameDev
+@blender_en @pygameworld
+Game Development @libregaming
+@love2dusers @godotengineenglish
+
+
+
+
+
+🌳 Mobile Development
+https://t.me/joinchat/AAAAAEFs51MT1z2bWDhZBQ
+https://t.me/joinchat/A3_yckO2QyZXpvLs6p-0Ig
+
+
+
+
+
+🌳 DevOps & Cloud
+https://t.me/joinchat/BkBvqULzhcG1AhRE7ljMyg
+@awsamazon
+@devops_network_forum
+
+
+
+
+
+🌳 Databases
+https://t.me/joinchat/BkBvqUzFvqKt9MhX1Rqlpw
+@sqlize
+@pg_sql @mysql_en
+@mongo_db @tarantool
+
+
+
+
+
+🌳 Telegram API
+@teloxide
+@go_telegram_bot_api
+@pyrogramchat @bottalk
+@aiogram @pythontelegrambotgroup
+https://t.me/joinchat/Bn4ixj84FIZVkwhk2jag6A
+https://t.me/joinchat/B35YY0QbLfd034CFnvCtCA
+
+
+
+
+
+🌳 Algorithms
+@progsolution
+@codeforcesgroup
+
+
+
+
+
+🌳 Data Science & Machine Learning
+@pydataco
+@bigdata_en
+@datasciencechats
+https://t.me/joinchat/BkBvqUpFD0AbUY7Uku-j9w
+https://t.me/joinchat/BkBvqUd2e0lSFNj8yQT3eA
+
+
+
+
+
+🌳 Other
+https://t.me/joinchat/AAAAAEKREgzW3ypwIjRwpQ
+@profpga
+https://t.me/joinchat/BkBvqVI38XlSAVL5jOHbXg
+@powersh @radare @octobercms
+@vmwaregroup @guildofsysadmin @guildtavern
+
+
+
+
+
+🆕 What's new?
+@octobercms
+@dlanggroup
+
+
+
+
+
+↕️↘️ Contents
+0️⃣1️⃣ Operating Systems
+0️⃣2️⃣ Programming
+0️⃣3️⃣ IDE
+0️⃣4️⃣ C & C++
+0️⃣5️⃣ Java
+0️⃣6️⃣ Python
+0️⃣7️⃣ JavaScript & Frontend
+0️⃣8️⃣ Other Languages
+0️⃣9️⃣ Computer Graphics & GameDev
+1️⃣0️⃣ Mobile Development
+1️⃣1️⃣ DevOps & Cloud
+1️⃣2️⃣ Databases
+1️⃣3️⃣ Telegram API
+1️⃣4️⃣ Algorithms
+1️⃣5️⃣ Data Science & Machine Learning
+1️⃣6️⃣ Other
+1️⃣7️⃣ What's new?
