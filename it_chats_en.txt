@@ -1,36 +1,36 @@
 🌳 Operating Systems
-@unix9
-@unixusergroup
-@posixchat
-@linux_group
+https://t.me/unix9
+https://t.me/unixusergroup
+https://t.me/posixchat
+https://t.me/linux_group
 https://t.me/joinchat/AAAAAEJIlclCRzYqrMYwNQ
-@guildoflinux
-@venomlinux
+https://t.me/guildoflinux
+https://t.me/venomlinux
 🌿 RedHat
-@fedoraama
-@fedora
+https://t.me/fedoraama
+https://t.me/fedora
 🌿 Arch
-@manjaro
-@artixlinux
-@archlinuxgroup
-@archlinuxarmgroup
+https://t.me/manjaro
+https://t.me/artixlinux
+https://t.me/archlinuxgroup
+https://t.me/archlinuxarmgroup
 🌿 Debian
-@debian_gnulinux
-@deepin
+https://t.me/debian_gnulinux
+https://t.me/deepin
 🌿 DE & WM
-@kdeneon
-@swaywm
+https://t.me/kdeneon
+https://t.me/swaywm
 🌿 BSD
-@nomadbsd_public
-@freebsd1
-@dflybsd
+https://t.me/nomadbsd_public
+https://t.me/freebsd1
+https://t.me/dflybsd
 
 
 
 
 
 🌳 Programming
-@linuxkernelnewbies
+https://t.me/linuxkernelnewbies
 Functional Programming
 
 
@@ -38,9 +38,9 @@ Functional Programming
 
 
 🌳 IDE
-@neovim
-@emacs_en
-@emacs_telega
+https://t.me/neovim
+https://t.me/emacs_en
+https://t.me/emacs_telega
 
 
 
@@ -48,37 +48,37 @@ Functional Programming
 
 🌳 C & C++
 https://t.me/joinchat/AAAAAD_cJVeMzHBQMtxB5w
-@programminginc
-@cplusplusqt
-@cppunchainedgroup
-@c_cpp_india
+https://t.me/programminginc
+https://t.me/cplusplusqt
+https://t.me/cppunchainedgroup
+https://t.me/c_cpp_india
 
 
 
 
 
 🌳 Java
-@javaprogrammingchat
-@springbootmicroservices
-@springbootspringdatajpa
+https://t.me/javaprogrammingchat
+https://t.me/springbootmicroservices
+https://t.me/springbootspringdatajpa
 https://t.me/joinchat/AAAAAEHS8_F0yoL401QNuQ
-@hibernatechat
+https://t.me/hibernatechat
 
 
 
 
 
 🌳 Python
-@python
-@django
+https://t.me/python
+https://t.me/django
 https://t.me/joinchat/AAAAAEI6mgRpU8Ook_LZiQ
-@pydataco
-@pygameworld
-@pythonforbeginners
-@python_talk
-@ponyorm
-@peeweechat
-@python_starlette
+https://t.me/pydataco
+https://t.me/pygameworld
+https://t.me/pythonforbeginners
+https://t.me/python_talk
+https://t.me/ponyorm
+https://t.me/peeweechat
+https://t.me/python_starlette
 
 
 
@@ -86,16 +86,16 @@ https://t.me/joinchat/AAAAAEI6mgRpU8Ook_LZiQ
 
 🌳 JavaScript & Frontend
 https://t.me/joinchat/AAAAAEEU-CGtxqPvZzRXug
-@javascriptgroup
-@ioniccommunity
-@javascriptdevelopersgroup
+https://t.me/javascriptgroup
+https://t.me/ioniccommunity
+https://t.me/javascriptdevelopersgroup
 🌿 Angular
-@a_ngular
-@ngdev
-@angulardevelopers
+https://t.me/a_ngular
+https://t.me/ngdev
+https://t.me/angulardevelopers
 🌿 React
-@react_en
-@reactnative_devs
+https://t.me/react_en
+https://t.me/reactnative_devs
 
 
 
@@ -104,46 +104,46 @@ https://t.me/joinchat/AAAAAEEU-CGtxqPvZzRXug
 🌳 Other Languages
 
 🌿 Ada
-@ada_lang
+https://t.me/ada_lang
 🌿 C#
-@vcsharp
+https://t.me/vcsharp
 https://t.me/joinchat/BkBvqUMHMofJD5zUIN16wg
 🌿 Crystal
-@crystallang
+https://t.me/crystallang
 🌿 D
-@dlanggroup
+https://t.me/dlanggroup
 🌿 Dart
-@flutterdart
+https://t.me/flutterdart
 🌿 Go
 https://t.me/joinchat/BkBvqUQTWYNc170pxYOQJQ
 🌿 Hy
-@hylang
+https://t.me/hylang
 🌿 Lua
-@lualang
+https://t.me/lualang
 🌿 Pascal
-@freepascal_en
+https://t.me/freepascal_en
 🌿 PHP
 https://t.me/joinchat/AAAAAEI7auDV7fUlhQpKbw
-@phpize_online
-@laravel_discuss
+https://t.me/phpize_online
+https://t.me/laravel_discuss
 🌿 Rust
-@rustdevs
+https://t.me/rustdevs
 🌿 Scala
-@scala_en
+https://t.me/scala_en
 🌿 V
-@vlang_en
+https://t.me/vlang_en
 
 
 
 
 
 🌳 Computer Graphics & GameDev
-@blender_en
-@pygameworld
+https://t.me/blender_en
+https://t.me/pygameworld
 Game Development
-@libregaming
-@love2dusers
-@godotengineenglish
+https://t.me/libregaming
+https://t.me/love2dusers
+https://t.me/godotengineenglish
 
 
 
@@ -159,8 +159,8 @@ https://t.me/joinchat/A3_yckO2QyZXpvLs6p-0Ig
 
 🌳 DevOps & Cloud
 https://t.me/joinchat/BkBvqULzhcG1AhRE7ljMyg
-@awsamazon
-@devops_network_forum
+https://t.me/awsamazon
+https://t.me/devops_network_forum
 
 
 
@@ -168,23 +168,23 @@ https://t.me/joinchat/BkBvqULzhcG1AhRE7ljMyg
 
 🌳 Databases
 https://t.me/joinchat/BkBvqUzFvqKt9MhX1Rqlpw
-@sqlize
-@pg_sql
-@mysql_en
-@mongo_db
-@tarantool
+https://t.me/sqlize
+https://t.me/pg_sql
+https://t.me/mysql_en
+https://t.me/mongo_db
+https://t.me/tarantool
 
 
 
 
 
 🌳 Telegram API
-@teloxide
-@go_telegram_bot_api
-@pyrogramchat
-@bottalk
-@aiogram
-@pythontelegrambotgroup
+https://t.me/teloxide
+https://t.me/go_telegram_bot_api
+https://t.me/pyrogramchat
+https://t.me/bottalk
+https://t.me/aiogram
+https://t.me/pythontelegrambotgroup
 https://t.me/joinchat/Bn4ixj84FIZVkwhk2jag6A
 https://t.me/joinchat/B35YY0QbLfd034CFnvCtCA
 
@@ -193,17 +193,17 @@ https://t.me/joinchat/B35YY0QbLfd034CFnvCtCA
 
 
 🌳 Algorithms
-@progsolution
-@codeforcesgroup
+https://t.me/progsolution
+https://t.me/codeforcesgroup
 
 
 
 
 
 🌳 Data Science & Machine Learning
-@pydataco
-@bigdata_en
-@datasciencechats
+https://t.me/pydataco
+https://t.me/bigdata_en
+https://t.me/datasciencechats
 https://t.me/joinchat/BkBvqUpFD0AbUY7Uku-j9w
 https://t.me/joinchat/BkBvqUd2e0lSFNj8yQT3eA
 
@@ -213,22 +213,22 @@ https://t.me/joinchat/BkBvqUd2e0lSFNj8yQT3eA
 
 🌳 Other
 https://t.me/joinchat/AAAAAEKREgzW3ypwIjRwpQ
-@profpga
+https://t.me/profpga
 https://t.me/joinchat/BkBvqVI38XlSAVL5jOHbXg
-@powersh
-@radare
-@octobercms
-@vmwaregroup
-@guildofsysadmin
-@guildtavern
+https://t.me/powersh
+https://t.me/radare
+https://t.me/octobercms
+https://t.me/vmwaregroup
+https://t.me/guildofsysadmin
+https://t.me/guildtavern
 
 
 
 
 
 🆕 What's new?
-@octobercms
-@dlanggroup
+https://t.me/octobercms
+https://t.me/dlanggroup
 
 
 

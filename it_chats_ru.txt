@@ -1,44 +1,44 @@
 🌳 Windows
-@pro_windows
-@ru_adminpe
-@windows_insider
-@winsiders
+https://t.me/pro_windows
+https://t.me/ru_adminpe
+https://t.me/windows_insider
+https://t.me/winsiders
 🌿 PowerShell
-@powershell_pro
-@powershellrus
-@ru_powershell
+https://t.me/powershell_pro
+https://t.me/powershellrus
+https://t.me/ru_powershell
 🌿 Автоматизация
-@autohotkey_ru
-@autohotkey2
-@autoit_ru
+https://t.me/autohotkey_ru
+https://t.me/autohotkey2
+https://t.me/autoit_ru
 
 
 
 
 
 🌳 Linux: общие вопросы
-@linuzua
-@grouplinux
-@pro_kvm
-@vfiolinux
-@ru_systemd
-@gnuslashlinux
-@linux_wit
-@linuxru
-@linuxstalkers
-@linuxgamingru
-@ru_zfs
+https://t.me/linuzua
+https://t.me/grouplinux
+https://t.me/pro_kvm
+https://t.me/vfiolinux
+https://t.me/ru_systemd
+https://t.me/gnuslashlinux
+https://t.me/linux_wit
+https://t.me/linuxru
+https://t.me/linuxstalkers
+https://t.me/linuxgamingru
+https://t.me/ru_zfs
 🌿 Shells (Bash / Zsh)
-@zshell_ru
-@pro_bash
-@termux_chatik
+https://t.me/zshell_ru
+https://t.me/pro_bash
+https://t.me/termux_chatik
 🌿 Графические оболочки
-@kde_ru
-@xfce_ru
-@gnome_ru
-@gnome_rus
-@i3wm_ru
-@tiling_wm_mastery
+https://t.me/kde_ru
+https://t.me/xfce_ru
+https://t.me/gnome_ru
+https://t.me/gnome_rus
+https://t.me/i3wm_ru
+https://t.me/tiling_wm_mastery
 
 
 
@@ -47,181 +47,181 @@
 🌳 Linux: дистрибутивы
 
 🌿 RedHat
-@russianfedora
-@centos_ru
-@centosr
+https://t.me/russianfedora
+https://t.me/centos_ru
+https://t.me/centosr
 🌿 Arch
-@archlinux_ru
-@artixlinux_ru
-@archlinuxchatru
-@manjarolinux
+https://t.me/archlinux_ru
+https://t.me/artixlinux_ru
+https://t.me/archlinuxchatru
+https://t.me/manjarolinux
 🌿 Debian
-@lubuntu_ru
-@ubuntu_group
-@elementary_os
-@debianl
-@deepinru
-@ru_ubuntu
-@xubuntu_runet
-@ru_mint
-@lmrus
-@linuxmint_com
-@kubuntu_ru_botfree
-@parrotsecru
+https://t.me/lubuntu_ru
+https://t.me/ubuntu_group
+https://t.me/elementary_os
+https://t.me/debianl
+https://t.me/deepinru
+https://t.me/ru_ubuntu
+https://t.me/xubuntu_runet
+https://t.me/ru_mint
+https://t.me/lmrus
+https://t.me/linuxmint_com
+https://t.me/kubuntu_ru_botfree
+https://t.me/parrotsecru
 🌿 Российские
-@astralinux_chat
-@rosalinux
-@alt_linux
+https://t.me/astralinux_chat
+https://t.me/rosalinux
+https://t.me/alt_linux
 🌿 Другие
-@linux_kal
-@slackware_ru
-@ru_nixos
-@gnu_guix_ru
-@russian_gentoo
-@ru_opensuse
+https://t.me/linux_kal
+https://t.me/slackware_ru
+https://t.me/ru_nixos
+https://t.me/gnu_guix_ru
+https://t.me/russian_gentoo
+https://t.me/ru_opensuse
 
 
 
 
 
 🌳 Другие ОС
-@msdos_pc
-@haiku_ru
-@kolibri_os
-@freebsd_ru
-@openbsd_ru
-@android_talks
-@reactos_ru
-@ibm_i
-@a2operatingsystem
+https://t.me/msdos_pc
+https://t.me/haiku_ru
+https://t.me/kolibri_os
+https://t.me/freebsd_ru
+https://t.me/openbsd_ru
+https://t.me/android_talks
+https://t.me/reactos_ru
+https://t.me/ibm_i
+https://t.me/a2operatingsystem
 🌿 Apple
-@applesilicondev
-@macos_cool
-@ithere
-@macosx86
-@ios12cydia
+https://t.me/applesilicondev
+https://t.me/macos_cool
+https://t.me/ithere
+https://t.me/macosx86
+https://t.me/ios12cydia
 
 
 
 
 
 🌳 Компьютерное Железо
-@recoveryhelp
-@russiancpu
-@e2k_chat
-@vm80a
-@rspprtt
-@gpu_fix
-@hard_talk
-@nspprt
-@help_remont
+https://t.me/recoveryhelp
+https://t.me/russiancpu
+https://t.me/e2k_chat
+https://t.me/vm80a
+https://t.me/rspprtt
+https://t.me/gpu_fix
+https://t.me/hard_talk
+https://t.me/nspprt
+https://t.me/help_remont
 
 
 
 
 
 🌳 Компьютерные Сети
-@evilwirelesschat
-@ru_ipv6
-@ru_dpdk
-@ntwrk
-@distributed
-@openwrt_ru
-@entware
-@mikrotikrus
-@keenetic_ru
+https://t.me/evilwirelesschat
+https://t.me/ru_ipv6
+https://t.me/ru_dpdk
+https://t.me/ntwrk
+https://t.me/distributed
+https://t.me/openwrt_ru
+https://t.me/entware
+https://t.me/mikrotikrus
+https://t.me/keenetic_ru
 🌿 Mesh-сети
-@meshnet
-@yggdrasil_ru
+https://t.me/meshnet
+https://t.me/yggdrasil_ru
 
 
 
 
 
 🌳 Программирование
-@pro_prog
-@coding_ru
-@pairpro
-@theartofdevel
-@codeblog_chat
-@codingteam
-@developer_school
-@extremecode_chat
+https://t.me/pro_prog
+https://t.me/coding_ru
+https://t.me/pairpro
+https://t.me/theartofdevel
+https://t.me/codeblog_chat
+https://t.me/codingteam
+https://t.me/developer_school
+https://t.me/extremecode_chat
 🌿 Парадигмы
-@oop_ru
-@fp_ru
-@practical_fm
-@typeslife
+https://t.me/oop_ru
+https://t.me/fp_ru
+https://t.me/practical_fm
+https://t.me/typeslife
 🌿 Дизайн языков
-@languagedev
-@lang_idioms
+https://t.me/languagedev
+https://t.me/lang_idioms
 
 
 
 
 
 🌳 Инструменты разработчика
-@postman_by
-@git_cool
-@pro_git
-@docsascode
-@sonarqube_ru
+https://t.me/postman_by
+https://t.me/git_cool
+https://t.me/pro_git
+https://t.me/docsascode
+https://t.me/sonarqube_ru
 🌿 IDE и редакторы кода
-@ide_ru
-@vscode_ru
-@vimers
-@nvimers
-@emacs_ru
-@pgcodekeeper
-@netbeans_ru
-@pro_sublime
-@sublimetext_ru
+https://t.me/ide_ru
+https://t.me/vscode_ru
+https://t.me/vimers
+https://t.me/nvimers
+https://t.me/emacs_ru
+https://t.me/pgcodekeeper
+https://t.me/netbeans_ru
+https://t.me/pro_sublime
+https://t.me/sublimetext_ru
 
 
 
 
 
 🌳 Системное программирование
-@compilerdev
-@sys_beginners_ru
-@pro_winapi
-@pro_osdev
-@proasm
-@chatassembler
+https://t.me/compilerdev
+https://t.me/sys_beginners_ru
+https://t.me/pro_winapi
+https://t.me/pro_osdev
+https://t.me/proasm
+https://t.me/chatassembler
 
 
 
 
 
 🌳 C и C++
-@cppua
-@pure_c
-@lame_c
-@supapro
-@procxx
-@qt_chat
-@ndk_ru
-@cpptogether
-@fckcxx
-@gtkchat
-@wxwidgetsru
-@probuildsystems
-@corehard_by
+https://t.me/cppua
+https://t.me/pure_c
+https://t.me/lame_c
+https://t.me/supapro
+https://t.me/procxx
+https://t.me/qt_chat
+https://t.me/ndk_ru
+https://t.me/cpptogether
+https://t.me/fckcxx
+https://t.me/gtkchat
+https://t.me/wxwidgetsru
+https://t.me/probuildsystems
+https://t.me/corehard_by
 
 
 
 
 
 🌳 Rust
-@rustlang_ua
-@rustlang_ru
-@rustlang_ru_translations
-@rust_beginners_ru
-@rust_async
-@rust_gamedev_ru
-@embedded_rs
+https://t.me/rustlang_ua
+https://t.me/rustlang_ru
+https://t.me/rustlang_ru_translations
+https://t.me/rust_beginners_ru
+https://t.me/rust_async
+https://t.me/rust_gamedev_ru
+https://t.me/embedded_rs
 👨🏼‍💻 Работа
-@rust_jobs
+https://t.me/rust_jobs
 
 
 
@@ -229,127 +229,127 @@
 
 
 🌳 .NET (C#, F#)
-@dotnetruchat
-@csharp_cplus
-@professorweb
-@pro_net
-@cilchat
-@dotnet_chat
-@fsharp_chat
-@linq2db
-@sharphelp
-@sharplivesmatter
-@codeblog_csharp
-@foxminded_dotnet
-@netdeveloperschat
+https://t.me/dotnetruchat
+https://t.me/csharp_cplus
+https://t.me/professorweb
+https://t.me/pro_net
+https://t.me/cilchat
+https://t.me/dotnet_chat
+https://t.me/fsharp_chat
+https://t.me/linq2db
+https://t.me/sharphelp
+https://t.me/sharplivesmatter
+https://t.me/codeblog_csharp
+https://t.me/foxminded_dotnet
+https://t.me/netdeveloperschat
 🌿 Desktop-приложения
-@avaloniaru
-@uwp_ru
+https://t.me/avaloniaru
+https://t.me/uwp_ru
 🌿 Web
-@sharepoint_ru
-@blazornetruchat
+https://t.me/sharepoint_ru
+https://t.me/blazornetruchat
 🌿 Мобильная разработка
-@xamarin_russia
+https://t.me/xamarin_russia
 👨🏼‍💻 Работа
-@microsoftstackjobs
-@dotnetrujobs
-@xamarin_jobs
+https://t.me/microsoftstackjobs
+https://t.me/dotnetrujobs
+https://t.me/xamarin_jobs
 
 
 
 
 
 🌳 Java
-@jvmchat
-@javastart
-@ihunt_io_java
-@springboot_ru
-@springframeworkio
-@javarush
-@gradle
-@junit_ru
-@javafxru
-@java_underground
-@android_toothpick
-@vaadin_ru
-@dagger_2
+https://t.me/jvmchat
+https://t.me/javastart
+https://t.me/ihunt_io_java
+https://t.me/springboot_ru
+https://t.me/springframeworkio
+https://t.me/javarush
+https://t.me/gradle
+https://t.me/junit_ru
+https://t.me/javafxru
+https://t.me/java_underground
+https://t.me/android_toothpick
+https://t.me/vaadin_ru
+https://t.me/dagger_2
 🌿 Kotlin
-@kotlin_start
-@kotlin_jvm
-@kotlin_js
-@kotlinlangru
-@kotlin_lang
-@kotlinchat
+https://t.me/kotlin_start
+https://t.me/kotlin_jvm
+https://t.me/kotlin_js
+https://t.me/kotlinlangru
+https://t.me/kotlin_lang
+https://t.me/kotlinchat
 🌿 Scala
 
-@scala_ru
-@scala_learn
+https://t.me/scala_ru
+https://t.me/scala_learn
 👨🏼‍💻 Работа
-@jvmjobschat
-@scala_jobs
+https://t.me/jvmjobschat
+https://t.me/scala_jobs
 
 
 
 
 
 🌳 Python
-@python_dark
-@chatpythonua
-@ru_python
-@propython
-@rudepython
-@pymentor
-@python_scripts
-@chatpython
+https://t.me/python_dark
+https://t.me/chatpythonua
+https://t.me/ru_python
+https://t.me/propython
+https://t.me/rudepython
+https://t.me/pymentor
+https://t.me/python_scripts
+https://t.me/chatpython
 🌿 Начинающим
-@pythonstepikchat
-@begeekprogramming
-@ru_python_beginners
-@tkhirianov_python_2019
-@python_noobs
-@python_for_dummies
+https://t.me/pythonstepikchat
+https://t.me/begeekprogramming
+https://t.me/ru_python_beginners
+https://t.me/tkhirianov_python_2019
+https://t.me/python_noobs
+https://t.me/python_for_dummies
 🌿 Web
-@scrapy_python
-@django_ukraine
-@django_framework
-@pydjango
-@ru_flask
-@fastapi_ru
-@aiohttp_ru
+https://t.me/scrapy_python
+https://t.me/django_ukraine
+https://t.me/django_framework
+https://t.me/pydjango
+https://t.me/ru_flask
+https://t.me/fastapi_ru
+https://t.me/aiohttp_ru
 🌿 Разное
-@sqlalchemy_help
-@micropython_faq_ru
-@ru_pyqt
-@pydata_chat
+https://t.me/sqlalchemy_help
+https://t.me/micropython_faq_ru
+https://t.me/ru_pyqt
+https://t.me/pydata_chat
 👨🏼‍💻 Работа
-@python_scripts_hr
-@python_jobs
-@django_jobs
+https://t.me/python_scripts_hr
+https://t.me/python_jobs
+https://t.me/django_jobs
 
 
 
 
 
 🌳 Ruby
-@rubyschool
-@rubyrush
-@pro_rb
+https://t.me/rubyschool
+https://t.me/rubyrush
+https://t.me/pro_rb
 👨🏼‍💻 Работа
-@ruby_jobs
+https://t.me/ruby_jobs
 
 
 
 
 
 🌳 Go
-@gogolang
-@golang_ru
-@golanghouse
-@golang_talk
+https://t.me/gogolang
+https://t.me/golang_ru
+https://t.me/golanghouse
+https://t.me/golang_talk
 👨🏼‍💻 Работа
-@golangjobchat
-@gogetajob
-@golang_jobs
+https://t.me/golangjobchat
+https://t.me/gogetajob
+https://t.me/golang_jobs
 
 
 
@@ -358,29 +358,29 @@
 🌳 Функциональное Программирование
 
 🌿 Scala
-@scala_ru
-@scala_learn
+https://t.me/scala_ru
+https://t.me/scala_learn
 🌿 Haskell
-@haskellru
-@haskell_learn
+https://t.me/haskellru
+https://t.me/haskell_learn
 🌿 Lisp
-@lisp_forever
-@lisp_ru
-@clojure_ru
-@scheme_ru
+https://t.me/lisp_forever
+https://t.me/lisp_ru
+https://t.me/clojure_ru
+https://t.me/scheme_ru
 🌿 Erlang и Elixir
-@erlangrus
-@proelixir
-@wunsh
+https://t.me/erlangrus
+https://t.me/proelixir
+https://t.me/wunsh
 🌿 Другие
-@purescript_ru
-@elm_ru
-@fsharp_chat
-@reasonml_ru
+https://t.me/purescript_ru
+https://t.me/elm_ru
+https://t.me/fsharp_chat
+https://t.me/reasonml_ru
 👨🏼‍💻 Работа
-@haskell_cv
-@scala_jobs
-@clojure_jobs
+https://t.me/haskell_cv
+https://t.me/scala_jobs
+https://t.me/clojure_jobs
 
 
 
@@ -389,124 +389,124 @@
 🌳 Другие языки
 
 🌿 1С
-@ru_1c
-@ssl1c
+https://t.me/ru_1c
+https://t.me/ssl1c
 🌿 ABAP (SAP)
-@sapabap
-@sapintegration
+https://t.me/sapabap
+https://t.me/sapintegration
 🌿 Ada
-@adalang
-@ada_ru_chat
+https://t.me/adalang
+https://t.me/ada_ru_chat
 🌿 Basic
-@purebasicru
+https://t.me/purebasicru
 🌿 Crystal
-@crystal_ru
+https://t.me/crystal_ru
 🌿 D
-@dlangru
+https://t.me/dlangru
 🌿 Dart
-@rudart
-@flutter_rus
-@artflutter
+https://t.me/rudart
+https://t.me/flutter_rus
+https://t.me/artflutter
 🌿 Forth
-@ruforth
+https://t.me/ruforth
 🌿 Haxe
-@haxe_ru
+https://t.me/haxe_ru
 🌿 Julia
-@julialanguage
+https://t.me/julialanguage
 🌿 Lua
-@prolua
+https://t.me/prolua
 🌿 Nim
-@ru_nim_talks
+https://t.me/ru_nim_talks
 🌿 Pascal
-@delphi_lazarus
-@delphicommunity
+https://t.me/delphi_lazarus
+https://t.me/delphicommunity
 🌿 Perl
-@modernperl
-@useperlordie
+https://t.me/modernperl
+https://t.me/useperlordie
 🌿 R
-@rlang_ru
-@hotliner_eu
+https://t.me/rlang_ru
+https://t.me/hotliner_eu
 🌿 Raku
-@raku_language
+https://t.me/raku_language
 🌿 Swift
-@server_side_swift
+https://t.me/server_side_swift
 🌿 Vala
-@codefaq
+https://t.me/codefaq
 🌿 Zig
-@zig_ru
+https://t.me/zig_ru
 
 
 
 
 
 🌳 Backend-раразботка
-@fullstack_devs
-@web_dev_chat
-@jun_mid_backend
-@tip_prog
-@devschat
-@backend_js_samurai
-@annode
-@graphql_ru
-@ru_ldap
-@integration_ru
-@backend_megdu_skobkah
+https://t.me/fullstack_devs
+https://t.me/web_dev_chat
+https://t.me/jun_mid_backend
+https://t.me/tip_prog
+https://t.me/devschat
+https://t.me/backend_js_samurai
+https://t.me/annode
+https://t.me/graphql_ru
+https://t.me/ru_ldap
+https://t.me/integration_ru
+https://t.me/backend_megdu_skobkah
 🌳 Message brokers
-@rabbitmq_ru
-@prokafka
+https://t.me/rabbitmq_ru
+https://t.me/prokafka
 
 
 
 
 
 🌳 Разработка ботов
-@yadialogschat
+https://t.me/yadialogschat
 https://t.me/joinchat/AAAAAD3M7FAk8tPhdcfVUA
 🌿 ВКонтакте
-@python273_vk_api
-@vkapichat
-@vkdotnet
-@vkwave
-@vkbottle_ru
+https://t.me/python273_vk_api
+https://t.me/vkapichat
+https://t.me/vkdotnet
+https://t.me/vkwave
+https://t.me/vkbottle_ru
 🌿 Telegram
-@bot_devs_novice
-@telegrafjs_ru
-@botoid
-@inmotelegrambotapichat
-@rupyrogram
-@aiogram_ru
-@pytelegrambotapi_talks_ru
-@telethonrussian
-@teloxide_ru
+https://t.me/bot_devs_novice
+https://t.me/telegrafjs_ru
+https://t.me/botoid
+https://t.me/inmotelegrambotapichat
+https://t.me/rupyrogram
+https://t.me/aiogram_ru
+https://t.me/pytelegrambotapi_talks_ru
+https://t.me/telethonrussian
+https://t.me/teloxide_ru
 
 
 
 
 🌳 PHP
-@phpgeeks
-@heapofcode
-@phpize_online
-@phpgeeksjunior
-@prophp7
-@php_chatik
-@phpclubru
-@codeidua
+https://t.me/phpgeeks
+https://t.me/heapofcode
+https://t.me/phpize_online
+https://t.me/phpgeeksjunior
+https://t.me/prophp7
+https://t.me/php_chatik
+https://t.me/phpclubru
+https://t.me/codeidua
 🌿 Laravel
-@laravel_pro
-@laravelrus
-@laravel_web
-@livewire_ru
+https://t.me/laravel_pro
+https://t.me/laravelrus
+https://t.me/laravel_web
+https://t.me/livewire_ru
 🌿 Yii
-@yii1ru
-@yii2ru
-@yii3ru
+https://t.me/yii1ru
+https://t.me/yii2ru
+https://t.me/yii3ru
 🌿 Symfony
-@symfony_php
-@symfony_ru
-@symfony
+https://t.me/symfony_php
+https://t.me/symfony_ru
+https://t.me/symfony
 👨🏼‍💻 Работа
-@php_jobs
-@yiijobs
+https://t.me/php_jobs
+https://t.me/yiijobs
 
 
 
@@ -515,160 +515,160 @@ https://t.me/joinchat/AAAAAD3M7FAk8tPhdcfVUA
 🌳 CMS
 
 🌿 WordPress
-@ua_wp
-@ru_wp
-@wp4dev
-@c_wordpress
-@coderunphp
-@wordpress_ru
-@elementor_ru
+https://t.me/ua_wp
+https://t.me/ru_wp
+https://t.me/wp4dev
+https://t.me/c_wordpress
+https://t.me/coderunphp
+https://t.me/wordpress_ru
+https://t.me/elementor_ru
 🌿 OpenCart
-@opencartofficial
-@opencartforumcom
+https://t.me/opencartofficial
+https://t.me/opencartforumcom
 🌿 MODX
-@ru_modx
-@evolutioncms
+https://t.me/ru_modx
+https://t.me/evolutioncms
 🌿 Drupal
-@drupal_rus
-@drupal_beginner
+https://t.me/drupal_rus
+https://t.me/drupal_beginner
 🌿 Другие
-@joomlaru
-@octobercms_rus
-@bitrixfordevelopers
+https://t.me/joomlaru
+https://t.me/octobercms_rus
+https://t.me/bitrixfordevelopers
 👨🏼‍💻 Работа
-@bitrix_work
+https://t.me/bitrix_work
 
 
 
 
 
 🌳 JavaScript и Frontend
-@fullstack_devs
-@js_ru
-@projs_ru
-@vofront
-@javascript_ninja
-@javascript_ru
-@frontend_ru
-@jschat
-@frontcoder
-@rxjs_ru
-@webpack_ru
-@jquery_ru
-@javascript_alert
-@webstandards_chat
-@webassembly_ru
+https://t.me/fullstack_devs
+https://t.me/js_ru
+https://t.me/projs_ru
+https://t.me/vofront
+https://t.me/javascript_ninja
+https://t.me/javascript_ru
+https://t.me/frontend_ru
+https://t.me/jschat
+https://t.me/frontcoder
+https://t.me/rxjs_ru
+https://t.me/webpack_ru
+https://t.me/jquery_ru
+https://t.me/javascript_alert
+https://t.me/webstandards_chat
+https://t.me/webassembly_ru
 🌿 Начинающим
-@js_lib
-@js_noobs_ru
-@learning_programming_together
+https://t.me/js_lib
+https://t.me/js_noobs_ru
+https://t.me/learning_programming_together
 🌿 JS-совместимые языки
-@purescript_ru
-@ts_cool
-@elm_ru
+https://t.me/purescript_ru
+https://t.me/ts_cool
+https://t.me/elm_ru
 🌿 Графика
-@gamedevforweb
-@webgl_ru
-@d3js_ru
+https://t.me/gamedevforweb
+https://t.me/webgl_ru
+https://t.me/d3js_ru
 🌿 Node.js
-@nodejs_ru
-@nodeua
-@backend_js_samurai
-@nest_ru
-@typeorm_ru
-@metaserverless
-@meteorjs_ru
-@moleculerchat
+https://t.me/nodejs_ru
+https://t.me/nodeua
+https://t.me/backend_js_samurai
+https://t.me/nest_ru
+https://t.me/typeorm_ru
+https://t.me/metaserverless
+https://t.me/meteorjs_ru
+https://t.me/moleculerchat
 🌿 Desktop & Mobile
-@electron_cool
-@nwjs_ru
-@nativescript_ru
-@ionic_ru
-@reactnative_ru
-@reactnativesquad
+https://t.me/electron_cool
+https://t.me/nwjs_ru
+https://t.me/nativescript_ru
+https://t.me/ionic_ru
+https://t.me/reactnative_ru
+https://t.me/reactnativesquad
 👨🏼‍💻 Работа
-@javascript_jobs
-@vuejs_jobs
-@frontenduajobs
-@nodejs_jobs
+https://t.me/javascript_jobs
+https://t.me/vuejs_jobs
+https://t.me/frontenduajobs
+https://t.me/nodejs_jobs
 
 
 
 
 
 🌳 Frontend-фреймворки
-@sveltejs
-@ember_js
-@alpine_js
-@extjsrussia
+https://t.me/sveltejs
+https://t.me/ember_js
+https://t.me/alpine_js
+https://t.me/extjsrussia
 🌿 State Managers
-@mobxjs_ru
-@redux_ru
-@effector_ru
-@nanostores_talk
+https://t.me/mobxjs_ru
+https://t.me/redux_ru
+https://t.me/effector_ru
+https://t.me/nanostores_talk
 🌿 React
-@react_js
-@react_ru
-@reactjs_samurai
-@nextjs_ru
-@atomicdesign
-@gatsbyjs_ru
+https://t.me/react_js
+https://t.me/react_ru
+https://t.me/reactjs_samurai
+https://t.me/nextjs_ru
+https://t.me/atomicdesign
+https://t.me/gatsbyjs_ru
 🌿 Angular
-@angular_js
-@angular_ru
-@taiga_ui
-@angular_universal_ru
+https://t.me/angular_js
+https://t.me/angular_ru
+https://t.me/taiga_ui
+https://t.me/angular_universal_ru
 🌿 Vue
-@vuejs_ru
-@vuejs_club
-@nuxtjs_ru
-@quasar_ru
+https://t.me/vuejs_ru
+https://t.me/vuejs_club
+https://t.me/nuxtjs_ru
+https://t.me/quasar_ru
 
 
 
 
 
 🌳 HTML и CSS
-@tailwindcss_rus
-@getbootstrap_ru
-@chat_from_0_to_1
-@prostorazrabotkachat
-@css_ru
-@web_structure
-@flschat
-@tpverstakchat
-@html_mentor
-@chathtml
+https://t.me/tailwindcss_rus
+https://t.me/getbootstrap_ru
+https://t.me/chat_from_0_to_1
+https://t.me/prostorazrabotkachat
+https://t.me/css_ru
+https://t.me/web_structure
+https://t.me/flschat
+https://t.me/tpverstakchat
+https://t.me/html_mentor
+https://t.me/chathtml
 
 
 
 
 
 🌳 UI и UX
-@figmachat
-@designchat2
-@webdesign_ru
-@uiux_ru
-@uxchat
-@webdesignguruchat
-@ui_club
-@dev_design
+https://t.me/figmachat
+https://t.me/designchat2
+https://t.me/webdesign_ru
+https://t.me/uiux_ru
+https://t.me/uxchat
+https://t.me/webdesignguruchat
+https://t.me/ui_club
+https://t.me/dev_design
 👨🏼‍💻 Работа
-@uiux_jobs
+https://t.me/uiux_jobs
 
 
 
 
 
 🌳 Хостинги
-@yandexcloud_chat
-@aws_ru
-@heroku_ru
-@yandexcloudfunctions
-@azure_russia
-@goo_cloud_ru
-@selectelcommunity
-@timeweb_chat
+https://t.me/yandexcloud_chat
+https://t.me/aws_ru
+https://t.me/heroku_ru
+https://t.me/yandexcloudfunctions
+https://t.me/azure_russia
+https://t.me/goo_cloud_ru
+https://t.me/selectelcommunity
+https://t.me/timeweb_chat
 
 
 
@@ -676,57 +676,57 @@ https://t.me/joinchat/AAAAAD3M7FAk8tPhdcfVUA
 
 🌳 Безопасность
 https://t.me/joinchat/AL6jEUFFW5TFS1s3pZMMjg
-@cb_sec
-@secinfosec
-@mrl_hack
-@webpwnchat
-@ru_cryptography
-@thecodeby
-@metasploitru
-@pentesting_chat
+https://t.me/cb_sec
+https://t.me/secinfosec
+https://t.me/mrl_hack
+https://t.me/webpwnchat
+https://t.me/ru_cryptography
+https://t.me/thecodeby
+https://t.me/metasploitru
+https://t.me/pentesting_chat
 
 
 
 
 
 🌳 DevOps
-@devops_ru
-@ru_devops
-@ru_logs
-@devsecops_ru
-@srv_admins
-@ru_systemd
-@nginx_ru
-@envoyproxy_ru
-@ru_proxmox
-@ru_hashicorp
-@traefik_ru
-@ru_nexus_sonatype
+https://t.me/devops_ru
+https://t.me/ru_devops
+https://t.me/ru_logs
+https://t.me/devsecops_ru
+https://t.me/srv_admins
+https://t.me/ru_systemd
+https://t.me/nginx_ru
+https://t.me/envoyproxy_ru
+https://t.me/ru_proxmox
+https://t.me/ru_hashicorp
+https://t.me/traefik_ru
+https://t.me/ru_nexus_sonatype
 🌿 Docker
-@docker_ru
-@ru_docker
+https://t.me/docker_ru
+https://t.me/ru_docker
 🌿 Kubernetes
-@kubernetes_ru
-@werf_ru
-@deckhouse_ru
+https://t.me/kubernetes_ru
+https://t.me/werf_ru
+https://t.me/deckhouse_ru
 🌿 CI / CD
-@jenkins_ru
-@ru_jenkins
-@ru_gitlab
-@github_action_ru
+https://t.me/jenkins_ru
+https://t.me/ru_jenkins
+https://t.me/ru_gitlab
+https://t.me/github_action_ru
 🌿 Конфигурирование
-@terraform_ru
-@pro_ansible
-@puppet_ru
+https://t.me/terraform_ru
+https://t.me/pro_ansible
+https://t.me/puppet_ru
 🌿 Мониторинг
-@metrics_ru
-@victoriametrics_ru1
-@prozabbix
-@zabbixpro
-@zabbixjunior
-@grafana_ru
+https://t.me/metrics_ru
+https://t.me/victoriametrics_ru1
+https://t.me/prozabbix
+https://t.me/zabbixpro
+https://t.me/zabbixjunior
+https://t.me/grafana_ru
 👨🏼‍💻 Работа
-@devops_jobs
+https://t.me/devops_jobs
 
 
 
@@ -734,161 +734,161 @@ https://t.me/joinchat/AL6jEUFFW5TFS1s3pZMMjg
 
 🌳 Тестирование
 https://t.me/+Thq0wPneQ2FLTx0O
-@qa_ru
-@qa_ua
-@qa_load
-@qa_courses
-@qajuniors
-@atinfo_chat
-@qa_chatka
-@qa_mentors
-@qa_automation
-@qareview
+https://t.me/qa_ru
+https://t.me/qa_ua
+https://t.me/qa_load
+https://t.me/qa_courses
+https://t.me/qajuniors
+https://t.me/atinfo_chat
+https://t.me/qa_chatka
+https://t.me/qa_mentors
+https://t.me/qa_automation
+https://t.me/qareview
 👨🏼‍💻 Работа
-@qa_ua_jobs
-@qa_jobs
-@qa_fin
+https://t.me/qa_ua_jobs
+https://t.me/qa_jobs
+https://t.me/qa_fin
 
 
 
 
 
 🌳 Базы Данных
-@dba_ru
-@sql_ninja
-@dbmsdev
-@dbgeeks
-@sqlize
+https://t.me/dba_ru
+https://t.me/sql_ninja
+https://t.me/dbmsdev
+https://t.me/dbgeeks
+https://t.me/sqlize
 🌿 PostgreSQL
-@pgsql
-@postgis
-@pgcodekeeper
-@postgresql_1c_linux
+https://t.me/pgsql
+https://t.me/postgis
+https://t.me/pgcodekeeper
+https://t.me/postgresql_1c_linux
 🌿 SQL Server
-@sqlcom
-@mssql_ru
+https://t.me/sqlcom
+https://t.me/mssql_ru
 🌿 MySQL и Oracle
-@mysql_db
-@ru_mysql
-@oracle_ru
-@oracle_dba_ru
+https://t.me/mysql_db
+https://t.me/ru_mysql
+https://t.me/oracle_ru
+https://t.me/oracle_dba_ru
 🌿 Elasticsearch
-@elasticsearch_ru
-@elk_ru
+https://t.me/elasticsearch_ru
+https://t.me/elk_ru
 🌿 Другие
-@clickhouse_ru
-@victoriametrics_ru1
-@mongodb_ru
-@reindexer
-@access_chat
-@tarantoolru
-@cassandra_ru
-@ru_scylladb
+https://t.me/clickhouse_ru
+https://t.me/victoriametrics_ru1
+https://t.me/mongodb_ru
+https://t.me/reindexer
+https://t.me/access_chat
+https://t.me/tarantoolru
+https://t.me/cassandra_ru
+https://t.me/ru_scylladb
 
 
 
 
 
 🌳 Desktop-разработка
-@wxwidgetsru
-@electron_cool
-@qt_chat
-@ru_pyqt
-@gtkchat
-@javafxru
-@uwp_ru
-@avaloniaru
+https://t.me/wxwidgetsru
+https://t.me/electron_cool
+https://t.me/qt_chat
+https://t.me/ru_pyqt
+https://t.me/gtkchat
+https://t.me/javafxru
+https://t.me/uwp_ru
+https://t.me/avaloniaru
 
 
 
 
 
 🌳 Мобильная разработка
-@faangmobile
+https://t.me/faangmobile
 🌿 Android
-@android_ru
-@ndk_ru
-@kotlin_mobile
-@kotlinchat
-@moxy_ru
-@android_declarative
-@android_architecture
-@androidev
-@startandroidchat
-@android_guards
+https://t.me/android_ru
+https://t.me/ndk_ru
+https://t.me/kotlin_mobile
+https://t.me/kotlinchat
+https://t.me/moxy_ru
+https://t.me/android_declarative
+https://t.me/android_architecture
+https://t.me/androidev
+https://t.me/startandroidchat
+https://t.me/android_guards
 🌿 iOS
-@ios_ru
-@swiftbook_chat
-@usovswift
+https://t.me/ios_ru
+https://t.me/swiftbook_chat
+https://t.me/usovswift
 🌿 Cross-platform
-@artflutter
-@xamarin_russia
-@rudart
-@flutter_rus
-@ionic_ru
-@nativescript_ru
-@reactnative_ru
-@reactnativesquad
+https://t.me/artflutter
+https://t.me/xamarin_russia
+https://t.me/rudart
+https://t.me/flutter_rus
+https://t.me/ionic_ru
+https://t.me/nativescript_ru
+https://t.me/reactnative_ru
+https://t.me/reactnativesquad
 👨🏼‍💻 Работа
-@xamarin_jobs
-@mobile_jobs
-@produckty
+https://t.me/xamarin_jobs
+https://t.me/mobile_jobs
+https://t.me/produckty
 
 
 
 
 
 🌳 Embedded Systems
-@proembedded
-@embedded_rs
-@fpgasystems
-@fpgasystems_embd
-@proiot
-@yahardwarechat
-@micropython_faq_ru
+https://t.me/proembedded
+https://t.me/embedded_rs
+https://t.me/fpgasystems
+https://t.me/fpgasystems_embd
+https://t.me/proiot
+https://t.me/yahardwarechat
+https://t.me/micropython_faq_ru
 🌿 STM32
-@stm32std
-@stm_32
-@telecatethysis_main
+https://t.me/stm32std
+https://t.me/stm_32
+https://t.me/telecatethysis_main
 🌿 ESP8266, ESP32
-@pro_esp8266
-@proesp8266
-@esp32_ru
+https://t.me/pro_esp8266
+https://t.me/proesp8266
+https://t.me/esp32_ru
 🌿 Другие
-@proarduino
-@arduinopro
-@proarm
-@raspberry_develop
+https://t.me/proarduino
+https://t.me/arduinopro
+https://t.me/proarm
+https://t.me/raspberry_develop
 
 
 
 
 
 🌳 Электроника
-@easyelectronics_and_mhl
-@retrocomps
-@prohardware
-@ru_electronics
-@electronix
-@chat_electrikov
-@electrical_science
-@montaj220
-@slabotochniki
+https://t.me/easyelectronics_and_mhl
+https://t.me/retrocomps
+https://t.me/prohardware
+https://t.me/ru_electronics
+https://t.me/electronix
+https://t.me/chat_electrikov
+https://t.me/electrical_science
+https://t.me/montaj220
+https://t.me/slabotochniki
 
 
 
 
 
 🌳 Алгоритмы
-@parallelcoding
-@faanginterviewua
-@tkhirianov_cpp_algo
-@unilecs_chat
-@l33tcode
-@proalgorithms
+https://t.me/parallelcoding
+https://t.me/faanginterviewua
+https://t.me/tkhirianov_cpp_algo
+https://t.me/unilecs_chat
+https://t.me/l33tcode
+https://t.me/proalgorithms
 https://t.me/joinchat/BYlFbEHb2qH6V1-rpTX0pA
-@faanginterview
-@faangtechinterview
+https://t.me/faanginterview
+https://t.me/faangtechinterview
 https://t.me/joinchat/Ve7wRegrZtI0NjIy
 
 
@@ -896,196 +896,196 @@ https://t.me/joinchat/Ve7wRegrZtI0NjIy
 
 
 🌳 Математика
-@promath_ru
-@starter_math
-@ma4at
-@ru_cryptography
-@matlab_ru
-@pro_latex
-@symboliclogic
-@typ_math_chat
-@physpub
-@math_code
-@higher_math
-@comput_math
-@matematika_org
-@matheden
-@ru_catheory
-@math2elp
+https://t.me/promath_ru
+https://t.me/starter_math
+https://t.me/ma4at
+https://t.me/ru_cryptography
+https://t.me/matlab_ru
+https://t.me/pro_latex
+https://t.me/symboliclogic
+https://t.me/typ_math_chat
+https://t.me/physpub
+https://t.me/math_code
+https://t.me/higher_math
+https://t.me/comput_math
+https://t.me/matematika_org
+https://t.me/matheden
+https://t.me/ru_catheory
+https://t.me/math2elp
 
 
 
 
 
 🌳 Графика и GameDev
-@physicitgamedev
-@rust_gamedev_ru
-@prographon
-@legalgd
-@datsgamedev
-@network_devs
+https://t.me/physicitgamedev
+https://t.me/rust_gamedev_ru
+https://t.me/prographon
+https://t.me/legalgd
+https://t.me/datsgamedev
+https://t.me/network_devs
 🌿 Игровые Движки
-@defoldengine
-@renpyru
-@coronaru
-@godot_engine
-@unrealengine4
-@love2d_ru
-@unity_cg
-@unity_tech_learn
-@unity3d_ru
-@unity_architecture
+https://t.me/defoldengine
+https://t.me/renpyru
+https://t.me/coronaru
+https://t.me/godot_engine
+https://t.me/unrealengine4
+https://t.me/love2d_ru
+https://t.me/unity_cg
+https://t.me/unity_tech_learn
+https://t.me/unity3d_ru
+https://t.me/unity_architecture
 🌿 Графика в Web
-@gamedevforweb
-@webgl_ru
-@d3js_ru
+https://t.me/gamedevforweb
+https://t.me/webgl_ru
+https://t.me/d3js_ru
 🌿 3D-моделирование
-@blender_ru
-@blen_coders
-@ohmy3dsmax
-@maya3d
-@dadapasha_chat
-@modo_art
-@thefoundrymari
-@zbrush_ru
-@cine4at
-@substancepainterdesignerru
+https://t.me/blender_ru
+https://t.me/blen_coders
+https://t.me/ohmy3dsmax
+https://t.me/maya3d
+https://t.me/dadapasha_chat
+https://t.me/modo_art
+https://t.me/thefoundrymari
+https://t.me/zbrush_ru
+https://t.me/cine4at
+https://t.me/substancepainterdesignerru
 
 
 
 
 
 🌳 Data Science, ML, AI
-@neyronnye_seti
-@ai_life
-@bigdata_ru
-@nlp_ru
-@datasciencechat
-@hotliner_eu
-@opencv_ru
-@datasciencecourse
-@machinee_learning
-@loginom_chat
-@julialanguage
-@rlang_ru
-@pydata_chat
-@faangdatascience
-@speech_recognition_ru
-@proanaliziruem
-@hadoopusers
-@istories_helloworld
-@qlikru
+https://t.me/neyronnye_seti
+https://t.me/ai_life
+https://t.me/bigdata_ru
+https://t.me/nlp_ru
+https://t.me/datasciencechat
+https://t.me/hotliner_eu
+https://t.me/opencv_ru
+https://t.me/datasciencecourse
+https://t.me/machinee_learning
+https://t.me/loginom_chat
+https://t.me/julialanguage
+https://t.me/rlang_ru
+https://t.me/pydata_chat
+https://t.me/faangdatascience
+https://t.me/speech_recognition_ru
+https://t.me/proanaliziruem
+https://t.me/hadoopusers
+https://t.me/istories_helloworld
+https://t.me/qlikru
 🌿 Визуализация
-@tableaurussia
-@tableau_ukraine
-@tableau_chat
-@pbi_rus
-@power_bi_support
+https://t.me/tableaurussia
+https://t.me/tableau_ukraine
+https://t.me/tableau_chat
+https://t.me/pbi_rus
+https://t.me/power_bi_support
 
 
 
 
 
 🌳 Маркетинг и SEO
-@seochat
-@seo_burzh_chat
-@tech_seo
-@targetcommunity
+https://t.me/seochat
+https://t.me/seo_burzh_chat
+https://t.me/tech_seo
+https://t.me/targetcommunity
 
 
 
 
 
 🌳 Офисное ПО
-@libreofficeru
-@pro_latex
+https://t.me/libreofficeru
+https://t.me/pro_latex
 🌿 Microsoft
-@wh_chat
-@eh_chat
-@excel_ru
-@access_chat
-@power_bi_support
-@pbi_rus
+https://t.me/wh_chat
+https://t.me/eh_chat
+https://t.me/excel_ru
+https://t.me/access_chat
+https://t.me/power_bi_support
+https://t.me/pbi_rus
 🌿 Google
-@google_spreadsheets_chat
-@googleappsscriptrc
-@gsuiterc
+https://t.me/google_spreadsheets_chat
+https://t.me/googleappsscriptrc
+https://t.me/gsuiterc
 
 
 
 
 
 🌳 Работа и проекты
-@any_work_ua
-@contests_ru
-@overemployed
-@tlbootcamp
-@teamleadtalks
-@startup_founder
-@upworkcom
-@ru_freelancers
-@richlance_chat
+https://t.me/any_work_ua
+https://t.me/contests_ru
+https://t.me/overemployed
+https://t.me/tlbootcamp
+https://t.me/teamleadtalks
+https://t.me/startup_founder
+https://t.me/upworkcom
+https://t.me/ru_freelancers
+https://t.me/richlance_chat
 🌿 Резюме и собеседования
 InterviewsSchoolKZ
-@resume_review
-@faanginterviewua
-@faangmobile
-@faanginterview
-@faangtechinterview
+https://t.me/resume_review
+https://t.me/faanginterviewua
+https://t.me/faangmobile
+https://t.me/faanginterview
+https://t.me/faangtechinterview
 
 
 
 
 
 🌳 OpenSource-проекты
-@metaserverless
-@aspia_ru
-@murrenganchat
-@rocketchatru
+https://t.me/metaserverless
+https://t.me/aspia_ru
+https://t.me/murrenganchat
+https://t.me/rocketchatru
 
 
 
 
 
 🌳 Криптовалюты
-@solana_dev_ru
-@cyberacademy
-@eth_ru
-@eth_dev
+https://t.me/solana_dev_ru
+https://t.me/cyberacademy
+https://t.me/eth_ru
+https://t.me/eth_dev
 
 
 
 
 
 🌳 Разное
-@moyskladapi
-@cctvclub_chat
-@crestbook_chat
-@zettelkasten_ru
-@regex_ru
-@hexletlegal
-@ffmpeg_ru
-@ru_montage
-@bitrix24help
-@bitrix24helper
+https://t.me/moyskladapi
+https://t.me/cctvclub_chat
+https://t.me/crestbook_chat
+https://t.me/zettelkasten_ru
+https://t.me/regex_ru
+https://t.me/hexletlegal
+https://t.me/ffmpeg_ru
+https://t.me/ru_montage
+https://t.me/bitrix24help
+https://t.me/bitrix24helper
 🌿 3D-печать
-@ender_3
-@photonsters
-@pro_3dprint
-@ru3dprinting
+https://t.me/ender_3
+https://t.me/photonsters
+https://t.me/pro_3dprint
+https://t.me/ru3dprinting
 🌿 ГИС
-@gislab
-@nextgis_chat
+https://t.me/gislab
+https://t.me/nextgis_chat
 
 
 
 
 
 🌳 Полезные боты
-@get_id_bot
-@showjsonbot
-@inlatexbot
-@rextester_bot
+https://t.me/get_id_bot
+https://t.me/showjsonbot
+https://t.me/inlatexbot
+https://t.me/rextester_bot
 
 
 
