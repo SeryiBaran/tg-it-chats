@@ -1,20 +1,29 @@
 🌳 Operating Systems
-@unix9 @unixusergroup
-@posixchat @linux_group
+@unix9
+@unixusergroup
+@posixchat
+@linux_group
 https://t.me/joinchat/AAAAAEJIlclCRzYqrMYwNQ
-@guildoflinux @venomlinux
+@guildoflinux
+@venomlinux
 🌿 RedHat
-@fedoraama @fedora
+@fedoraama
+@fedora
 🌿 Arch
-@manjaro @artixlinux
-@archlinuxgroup @archlinuxarmgroup
+@manjaro
+@artixlinux
+@archlinuxgroup
+@archlinuxarmgroup
 🌿 Debian
-@debian_gnulinux @deepin
+@debian_gnulinux
+@deepin
 🌿 DE & WM
-@kdeneon @swaywm
+@kdeneon
+@swaywm
 🌿 BSD
 @nomadbsd_public
-@freebsd1 @dflybsd
+@freebsd1
+@dflybsd
 
 
 
@@ -30,7 +39,8 @@ Functional Programming
 
 🌳 IDE
 @neovim
-@emacs_en @emacs_telega
+@emacs_en
+@emacs_telega
 
 
 
@@ -38,8 +48,10 @@ Functional Programming
 
 🌳 C & C++
 https://t.me/joinchat/AAAAAD_cJVeMzHBQMtxB5w
-@programminginc @cplusplusqt
-@cppunchainedgroup @c_cpp_india
+@programminginc
+@cplusplusqt
+@cppunchainedgroup
+@c_cpp_india
 
 
 
@@ -57,11 +69,16 @@ https://t.me/joinchat/AAAAAEHS8_F0yoL401QNuQ
 
 
 🌳 Python
-@python @django
+@python
+@django
 https://t.me/joinchat/AAAAAEI6mgRpU8Ook_LZiQ
-@pydataco @pygameworld
-@pythonforbeginners @python_talk
-@ponyorm @peeweechat @python_starlette
+@pydataco
+@pygameworld
+@pythonforbeginners
+@python_talk
+@ponyorm
+@peeweechat
+@python_starlette
 
 
 
@@ -73,10 +90,12 @@ https://t.me/joinchat/AAAAAEEU-CGtxqPvZzRXug
 @ioniccommunity
 @javascriptdevelopersgroup
 🌿 Angular
-@a_ngular @ngdev
+@a_ngular
+@ngdev
 @angulardevelopers
 🌿 React
-@react_en @reactnative_devs
+@react_en
+@reactnative_devs
 
 
 
@@ -119,9 +138,12 @@ https://t.me/joinchat/AAAAAEI7auDV7fUlhQpKbw
 
 
 🌳 Computer Graphics & GameDev
-@blender_en @pygameworld
-Game Development @libregaming
-@love2dusers @godotengineenglish
+@blender_en
+@pygameworld
+Game Development
+@libregaming
+@love2dusers
+@godotengineenglish
 
 
 
@@ -147,8 +169,10 @@ https://t.me/joinchat/BkBvqULzhcG1AhRE7ljMyg
 🌳 Databases
 https://t.me/joinchat/BkBvqUzFvqKt9MhX1Rqlpw
 @sqlize
-@pg_sql @mysql_en
-@mongo_db @tarantool
+@pg_sql
+@mysql_en
+@mongo_db
+@tarantool
 
 
 
@@ -157,8 +181,10 @@ https://t.me/joinchat/BkBvqUzFvqKt9MhX1Rqlpw
 🌳 Telegram API
 @teloxide
 @go_telegram_bot_api
-@pyrogramchat @bottalk
-@aiogram @pythontelegrambotgroup
+@pyrogramchat
+@bottalk
+@aiogram
+@pythontelegrambotgroup
 https://t.me/joinchat/Bn4ixj84FIZVkwhk2jag6A
 https://t.me/joinchat/B35YY0QbLfd034CFnvCtCA
 
@@ -189,8 +215,12 @@ https://t.me/joinchat/BkBvqUd2e0lSFNj8yQT3eA
 https://t.me/joinchat/AAAAAEKREgzW3ypwIjRwpQ
 @profpga
 https://t.me/joinchat/BkBvqVI38XlSAVL5jOHbXg
-@powersh @radare @octobercms
-@vmwaregroup @guildofsysadmin @guildtavern
+@powersh
+@radare
+@octobercms
+@vmwaregroup
+@guildofsysadmin
+@guildtavern
 
 
 

@@ -1,10 +1,21 @@
 🌳 Общие каналы
 @pvsstudio_rus
-@pcteapot @it_boooks @it_boooks2
-@proglibrary @progbook @bookflow
-@bfbook @tproger_official @bzd_channel
-@fordevelopers @javaebooks @technobooks
-@techrocksarchive @thedevs @itliba @itlibrary
+@pcteapot
+@it_boooks
+@it_boooks2
+@proglibrary
+@progbook
+@bookflow
+@bfbook
+@tproger_official
+@bzd_channel
+@fordevelopers
+@javaebooks
+@technobooks
+@techrocksarchive
+@thedevs
+@itliba
+@itlibrary
 
 
 
@@ -12,7 +23,8 @@
 
 🌳 Новости IT
 @netpost
-@lthub @your_tech
+@lthub
+@your_tech
 @windows_insiders10
 
 
@@ -20,23 +32,36 @@
 
 
 🌳 Linux
-@linux_n_linus @losstofficial
-@plafonyoutube @pingvinus_ru
-@linux_sup @komyounity @permlug
-@spblug @linuxkalii @ru_elementary
+@linux_n_linus
+@losstofficial
+@plafonyoutube
+@pingvinus_ru
+@linux_sup
+@komyounity
+@permlug
+@spblug
+@linuxkalii
+@ru_elementary
 🌿 Desktop Environments
 @usefuldesktop
-@gnome_feed @kde_ru_news
+@gnome_feed
+@kde_ru_news
 
 
 
 
 
 🌳 C++
-@thisnotes @cpp_aggregator
-@procxxnews @r_cpp @pro_optimise
-@procxxchannel @cpprussia_channel
-@sea_plus_plus @cppproglib pro.cxx.books
+@thisnotes
+@cpp_aggregator
+@procxxnews
+@r_cpp
+@pro_optimise
+@procxxchannel
+@cpprussia_channel
+@sea_plus_plus
+@cppproglib
+https://t.me/joinchat/AAAAAE1yUq2Kh6WdPCtjMA
 @experimentalchill
 👨🏼‍💻 Работа
 @cppdevjob
@@ -52,13 +77,18 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 @codaza
 @dotnetreview
 @netdeveloperdiary
-@csharpproglib @dncuug
-@blazorchannel @dotnetter
-@dotnetbooks @csharp_publics
-@dotnext_channel @spbdotnet
+@csharpproglib
+@dncuug
+@blazorchannel
+@dotnetter
+@dotnetbooks
+@csharp_publics
+@dotnext_channel
+@spbdotnet
 👨🏼‍💻 Работа
 @microsoftstackjobsfeed
-@dotnetrujobsfeed @csharpdevjob
+@dotnetrujobsfeed
+@csharpdevjob
 
 
 
@@ -66,18 +96,27 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 
 🌳 Java
 @xpinjection_channel
-@javaproglib @javalib
-@javamentor @projvm
+@javaproglib
+@javalib
+@javamentor
+@projvm
 @springframeworkzone
-@javasobes @androidsobes
-@jvmconf @scala_channel_ru
-@thedailykotlin @shitty_android
-@a_cup_of_java @java_developer
+@javasobes
+@androidsobes
+@jvmconf
+@scala_channel_ru
+@thedailykotlin
+@shitty_android
+@a_cup_of_java
+@java_developer
 📊 Тесты
-@javaquiz @java_zadaniya
+@javaquiz
+@java_zadaniya
 👨🏼‍💻 Работа
-@jvmjobs @javadevjob
-@scala_jobs_feed @kotlin_jobs
+@jvmjobs
+@javadevjob
+@scala_jobs_feed
+@kotlin_jobs
 
 
 
@@ -86,17 +125,25 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 🌳 Python
 @dark_pyth0n
 @python_textbooks
-@phytonua @django_prog
-@pyproglib @pythonbooks
-@zen_of_python @pip_install
-@bookpython @pythonist_ru
-@py_courses_ru @turbo_python
+@phytonua
+@django_prog
+@pyproglib
+@pythonbooks
+@zen_of_python
+@pip_install
+@bookpython
+@pythonist_ru
+@py_courses_ru
+@turbo_python
 📊 Тесты
 @quiz_python
-@pypolls @py_quiz
-@pythonsc @pythontesti
+@pypolls
+@py_quiz
+@pythonsc
+@pythontesti
 👨🏼‍💻 Работа
-@pydevjob @python_jobs_jooby
+@pydevjob
+@python_jobs_jooby
 
 
 
@@ -105,21 +152,28 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 🌳 Go
 @go_in_action
 @golang_interview
-@gophernews @goproglib
-@golanglibrary @go_books
-@golang_org @golang_for_two
+@gophernews
+@goproglib
+@golanglibrary
+@go_books
+@golang_org
+@golang_for_two
 👨🏼‍💻 Работа
 @golangjob
-@godevjob @golang_job
+@godevjob
+@golang_job
 
 
 
 
 
 🌳 Другие языки
-@ru_nim @scala_channel_ru
-@rust_code @adalang_digest
-@proelixir_news @elixir_formula
+@ru_nim
+@scala_channel_ru
+@rust_code
+@adalang_digest
+@proelixir_news
+@elixir_formula
 
 
 
@@ -129,20 +183,29 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 @botfatherdev
 @davidobryakov
 @howprogrammingworks
-@tproger_web @webprogrammerdiary
-@baldfrombrowser @webstandards_ru
+@tproger_web
+@webprogrammerdiary
+@baldfrombrowser
+@webstandards_ru
 
 
 
 
 
 🌳 PHP
-@beerphp @news_wordpress
-@phpyh @protonalex @phptoday
-@phpproglib @phpdigest @phpme
+@beerphp
+@news_wordpress
+@phpyh
+@protonalex
+@phptoday
+@phpproglib
+@phpdigest
+@phpme
 👨🏼‍💻 Работа
-@phpdevjob @joomla_jobs
-@wordpress_jobs @drupalclients
+@phpdevjob
+@joomla_jobs
+@wordpress_jobs
+@drupalclients
 
 
 
@@ -152,13 +215,18 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 @it_sandbox
 @glo_academy
 @prostorazrabotka
-@weblibrary @htmlshit
-@godinhtml @tpverstak
+@weblibrary
+@htmlshit
+@godinhtml
+@tpverstak
 🌿Макеты
 @uniquetemplates
-@figma2html @build_html
-@figmamakets @mockupspsd
-@layouts_figma @figma_templates
+@figma2html
+@build_html
+@figmamakets
+@mockupspsd
+@layouts_figma
+@figma_templates
 
 
 
@@ -168,33 +236,44 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 @front_end_dev
 @typicalfrontend
 @frontendproglib
-@defront @frontips
+@defront
+@frontips
 @iamakulov_channel
-@javascriptv @frontend
+@javascriptv
+@frontend
 @frontendnoteschannel
-@frontend_1 @forwebdev
-@seniorfront @thefrontend
-@frontendbook @frontend_textbooks
+@frontend_1
+@forwebdev
+@seniorfront
+@thefrontend
+@frontendbook
+@frontend_textbooks
 🌿Frontend-фреймворки
 @angular_fox
 @ru_react_notes
-@clubreact @react_prog
+@clubreact
+@react_prog
 🌿Node.js
 @node_recipes
 @howprogrammingworks
 👨🏼‍💻 Работа
-@js_jobs_jooby @jsjobs
+@js_jobs_jooby
+@jsjobs
 @frontend_jobs_channel
-@jsdevjob @javascript_jobs_feed
-@vuejs_jobs_feed @nodejs_jobs_feed
+@jsdevjob
+@javascript_jobs_feed
+@vuejs_jobs_feed
+@nodejs_jobs_feed
 
 
 
 
 
 🌳 Дизайн
-@dezzigners @dropzz
-@webdesigndaily @uxidesign
+@dezzigners
+@dropzz
+@webdesigndaily
+@uxidesign
 
 
 
@@ -203,7 +282,8 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 🌳 Базы Данных
 @dbbooks
 @database_group
-@db_in_it @sql_wiki
+@db_in_it
+@sql_wiki
 @databases_secrets
 
 
@@ -211,13 +291,20 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 
 
 🌳 Тестирование
-@atinfo @testerlib
-@bookqa @qa_chillout
-@sqaunderhood @qa_security
-@qa_wiki @automation_remarks
-@qaevents @radioqa @serious_tester
+@atinfo
+@testerlib
+@bookqa
+@qa_chillout
+@sqaunderhood
+@qa_security
+@qa_wiki
+@automation_remarks
+@qaevents
+@radioqa
+@serious_tester
 👨🏼‍💻 Работа
-@qaload_job @qa_jobs_jooby
+@qaload_job
+@qa_jobs_jooby
 
 
 
@@ -225,10 +312,15 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 
 🌳 DevOps
 @devopsengineer
-@devopsslib @monitorim_it
-@sysadminnotes @devopslibrary
-@devops_deflope @count0_digest
-@burntout_sdet @i_odmin @bykvaadm
+@devopsslib
+@monitorim_it
+@sysadminnotes
+@devopslibrary
+@devops_deflope
+@count0_digest
+@burntout_sdet
+@i_odmin
+@bykvaadm
 👨🏼‍💻 Работа
 @fordevops
 @devops_jobs_feed
@@ -239,33 +331,53 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 
 🌳 Сети, администрирование
 @sysadmin1
-@sysadminof @i_odmin_book
-@patchcord @linkmeup_podcast
-@sysadm_in_channel @sysadminsu @ntwrkchnnl
+@sysadminof
+@i_odmin_book
+@patchcord
+@linkmeup_podcast
+@sysadm_in_channel
+@sysadminsu
+@ntwrkchnnl
 
 
 
 
 
 🌳 Безопасность
-@overlamer1 @hlfiles
-@secinfosex @hack_theory @mis_team
-@cybersecurity_for_all @somesecuritynotes
-@xakep_ru @isacarusec @avdno @hackerlib
-@alexlitreev_channel @webpwn @alexmakus
+@overlamer1
+@hlfiles
+@secinfosex
+@hack_theory
+@mis_team
+@cybersecurity_for_all
+@somesecuritynotes
+@xakep_ru
+@isacarusec
+@avdno
+@hackerlib
+@alexlitreev_channel
+@webpwn
+@alexmakus
 
 
 
 
 
 🌳 Мобильная разработка
-@androidsobes @startandroid
-@mobiledevnews @dodomobile
-@android_broadcast @mobi_dev
-@mobileproglib @iosdevio @iosgr
-@developer_mobila @androiddeveu
+@androidsobes
+@startandroid
+@mobiledevnews
+@dodomobile
+@android_broadcast
+@mobi_dev
+@mobileproglib
+@iosdevio
+@iosgr
+@developer_mobila
+@androiddeveu
 👨🏼‍💻 Работа
-@mobiledevjob @mobile_jobs_feed
+@mobiledevjob
+@mobile_jobs_feed
 
 
 
@@ -273,9 +385,12 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 
 🌳 Embedded Systems
 @embedded_books
-@fpgasic @fpga_news
-@yahardware @armlab
-@vw_tooltips @embedoka
+@fpgasic
+@fpga_news
+@yahardware
+@armlab
+@vw_tooltips
+@embedoka
 
 
 
@@ -284,9 +399,12 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 🌳 Математика и Алгоритмы
 @parallelcode
 @coding_interviews
-@physics_lib @physpublib
-@compscicenter_ru @unilecs
-@pomatematike @cme_channel
+@physics_lib
+@physpublib
+@compscicenter_ru
+@unilecs
+@pomatematike
+@cme_channel
 
 
 
@@ -297,12 +415,17 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 @data_science_wiki
 @maschinelearning
 @machinelearning_ru
-@dsproglib @ds_notes
-@neuralshit @r4marketing
-@gonzo_ml @mommyscience
-@deeplearning_ru @robotics_channel
+@dsproglib
+@ds_notes
+@neuralshit
+@r4marketing
+@gonzo_ml
+@mommyscience
+@deeplearning_ru
+@robotics_channel
 👨🏼‍💻 Работа
-@datajob @data_hr
+@datajob
+@data_hr
 
 
 
@@ -310,18 +433,25 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 
 🌳 Графика и GameDev
 @poly3ds
-@unity_3d_home @make_game
-@gamedev_architecture @gdlib
-@unrealenginecis @creative_coder
-@progamedev @defoldnews @korovany
+@unity_3d_home
+@make_game
+@gamedev_architecture
+@gdlib
+@unrealenginecis
+@creative_coder
+@progamedev
+@defoldnews
+@korovany
 
 
 
 
 
 🌳 OpenSource
-@open_source_friend @github_repos
-@opensource_findings @opensourcefuture
+@open_source_friend
+@github_repos
+@opensource_findings
+@opensourcefuture
 @github_community
 
 
@@ -335,7 +465,8 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 @general_it_talks
 @bandaworks_bb
 @aheadofthepack
-@itmot @gromov_com
+@itmot
+@gromov_com
 @myobrechenychannel
 
 
@@ -345,21 +476,36 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 🌳 Другое
 @macos_expert
 @recent_it_articles
-@uchuenglish @plcomp
-@google_sheets @guide_pc
-@juniorones @onecv8 @sapcpiru
-@hacks_excel @junior_developer_ua
-@prog_tools @developer_tools
+@uchuenglish
+@plcomp
+@google_sheets
+@guide_pc
+@juniorones
+@onecv8
+@sapcpiru
+@hacks_excel
+@junior_developer_ua
+@prog_tools
+@developer_tools
 
 
 
 
 
 🌳 Юмор
-@profunctor_io @olegizvini
-@programmerjokes @dev_meme @ity_humor @ithumor
-@g_code @ebanfizika @rabynagalerah @web_dev_humor
-@ebanoephp @itumor @depomemes
+@profunctor_io
+@olegizvini
+@programmerjokes
+@dev_meme
+@ity_humor
+@ithumor
+@g_code
+@ebanfizika
+@rabynagalerah
+@web_dev_humor
+@ebanoephp
+@itumor
+@depomemes
 
 
 

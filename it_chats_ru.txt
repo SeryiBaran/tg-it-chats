@@ -1,30 +1,44 @@
 🌳 Windows
-@pro_windows @ru_adminpe
-@windows_insider @winsiders
+@pro_windows
+@ru_adminpe
+@windows_insider
+@winsiders
 🌿 PowerShell
 @powershell_pro
-@powershellrus @ru_powershell
+@powershellrus
+@ru_powershell
 🌿 Автоматизация
 @autohotkey_ru
-@autohotkey2 @autoit_ru
+@autohotkey2
+@autoit_ru
 
 
 
 
 
 🌳 Linux: общие вопросы
-@linuzua @grouplinux
-@pro_kvm @vfiolinux @ru_systemd
-@gnuslashlinux @linux_wit @linuxru
-@linuxstalkers @linuxgamingru @ru_zfs
+@linuzua
+@grouplinux
+@pro_kvm
+@vfiolinux
+@ru_systemd
+@gnuslashlinux
+@linux_wit
+@linuxru
+@linuxstalkers
+@linuxgamingru
+@ru_zfs
 🌿 Shells (Bash / Zsh)
 @zshell_ru
 @pro_bash
 @termux_chatik
 🌿 Графические оболочки
-@kde_ru @xfce_ru
-@gnome_ru @gnome_rus
-@i3wm_ru @tiling_wm_mastery
+@kde_ru
+@xfce_ru
+@gnome_ru
+@gnome_rus
+@i3wm_ru
+@tiling_wm_mastery
 
 
 
@@ -34,26 +48,37 @@
 
 🌿 RedHat
 @russianfedora
-@centos_ru @centosr
+@centos_ru
+@centosr
 🌿 Arch
-@archlinux_ru @artixlinux_ru
-@archlinuxchatru @manjarolinux
+@archlinux_ru
+@artixlinux_ru
+@archlinuxchatru
+@manjarolinux
 🌿 Debian
 @lubuntu_ru
 @ubuntu_group
 @elementary_os
-@debianl @deepinru
-@ru_ubuntu @xubuntu_runet
-@ru_mint @lmrus @linuxmint_com
-@kubuntu_ru_botfree @parrotsecru
+@debianl
+@deepinru
+@ru_ubuntu
+@xubuntu_runet
+@ru_mint
+@lmrus
+@linuxmint_com
+@kubuntu_ru_botfree
+@parrotsecru
 🌿 Российские
 @astralinux_chat
-@rosalinux @alt_linux
+@rosalinux
+@alt_linux
 🌿 Другие
 @linux_kal
 @slackware_ru
-@ru_nixos @gnu_guix_ru
-@russian_gentoo @ru_opensuse
+@ru_nixos
+@gnu_guix_ru
+@russian_gentoo
+@ru_opensuse
 
 
 
@@ -61,14 +86,20 @@
 
 🌳 Другие ОС
 @msdos_pc
-@haiku_ru @kolibri_os
-@freebsd_ru @openbsd_ru
-@android_talks @reactos_ru
-@ibm_i @a2operatingsystem
+@haiku_ru
+@kolibri_os
+@freebsd_ru
+@openbsd_ru
+@android_talks
+@reactos_ru
+@ibm_i
+@a2operatingsystem
 🌿 Apple
 @applesilicondev
-@macos_cool @ithere
-@macosx86 @ios12cydia
+@macos_cool
+@ithere
+@macosx86
+@ios12cydia
 
 
 
@@ -76,9 +107,14 @@
 
 🌳 Компьютерное Железо
 @recoveryhelp
-@russiancpu @e2k_chat
-@vm80a @rspprtt @gpu_fix
-@hard_talk @nspprt @help_remont
+@russiancpu
+@e2k_chat
+@vm80a
+@rspprtt
+@gpu_fix
+@hard_talk
+@nspprt
+@help_remont
 
 
 
@@ -86,27 +122,39 @@
 
 🌳 Компьютерные Сети
 @evilwirelesschat
-@ru_ipv6 @ru_dpdk
-@ntwrk @distributed
-@openwrt_ru @entware
-@mikrotikrus @keenetic_ru
+@ru_ipv6
+@ru_dpdk
+@ntwrk
+@distributed
+@openwrt_ru
+@entware
+@mikrotikrus
+@keenetic_ru
 🌿 Mesh-сети
-@meshnet @yggdrasil_ru
+@meshnet
+@yggdrasil_ru
 
 
 
 
 
 🌳 Программирование
-@pro_prog @coding_ru
-@pairpro @theartofdevel
-@codeblog_chat @codingteam
-@developer_school @extremecode_chat
+@pro_prog
+@coding_ru
+@pairpro
+@theartofdevel
+@codeblog_chat
+@codingteam
+@developer_school
+@extremecode_chat
 🌿 Парадигмы
-@oop_ru @fp_ru
-@practical_fm @typeslife
+@oop_ru
+@fp_ru
+@practical_fm
+@typeslife
 🌿 Дизайн языков
-@languagedev @lang_idioms
+@languagedev
+@lang_idioms
 
 
 
@@ -114,13 +162,20 @@
 
 🌳 Инструменты разработчика
 @postman_by
-@git_cool @pro_git
-@docsascode @sonarqube_ru
+@git_cool
+@pro_git
+@docsascode
+@sonarqube_ru
 🌿 IDE и редакторы кода
-@ide_ru @vscode_ru
-@vimers @nvimers @emacs_ru
-@pgcodekeeper @netbeans_ru
-@pro_sublime @sublimetext_ru
+@ide_ru
+@vscode_ru
+@vimers
+@nvimers
+@emacs_ru
+@pgcodekeeper
+@netbeans_ru
+@pro_sublime
+@sublimetext_ru
 
 
 
@@ -129,8 +184,10 @@
 🌳 Системное программирование
 @compilerdev
 @sys_beginners_ru
-@pro_winapi @pro_osdev
-@proasm @chatassembler
+@pro_winapi
+@pro_osdev
+@proasm
+@chatassembler
 
 
 
@@ -138,12 +195,18 @@
 
 🌳 C и C++
 @cppua
-@pure_c @lame_c
-@supapro @procxx
-@qt_chat @ndk_ru
-@cpptogether @fckcxx
-@gtkchat @wxwidgetsru
-@probuildsystems @corehard_by
+@pure_c
+@lame_c
+@supapro
+@procxx
+@qt_chat
+@ndk_ru
+@cpptogether
+@fckcxx
+@gtkchat
+@wxwidgetsru
+@probuildsystems
+@corehard_by
 
 
 
@@ -153,8 +216,10 @@
 @rustlang_ua
 @rustlang_ru
 @rustlang_ru_translations
-@rust_beginners_ru @rust_async
-@rust_gamedev_ru @embedded_rs
+@rust_beginners_ru
+@rust_async
+@rust_gamedev_ru
+@embedded_rs
 👨🏼‍💻 Работа
 @rust_jobs
 
@@ -165,13 +230,21 @@
 
 🌳 .NET (C#, F#)
 @dotnetruchat
-@csharp_cplus @professorweb
-@pro_net @cilchat @dotnet_chat
-@fsharp_chat @linq2db @sharphelp
-@sharplivesmatter @codeblog_csharp
-@foxminded_dotnet @netdeveloperschat
+@csharp_cplus
+@professorweb
+@pro_net
+@cilchat
+@dotnet_chat
+@fsharp_chat
+@linq2db
+@sharphelp
+@sharplivesmatter
+@codeblog_csharp
+@foxminded_dotnet
+@netdeveloperschat
 🌿 Desktop-приложения
-@avaloniaru @uwp_ru
+@avaloniaru
+@uwp_ru
 🌿 Web
 @sharepoint_ru
 @blazornetruchat
@@ -179,25 +252,41 @@
 @xamarin_russia
 👨🏼‍💻 Работа
 @microsoftstackjobs
-@dotnetrujobs @xamarin_jobs
+@dotnetrujobs
+@xamarin_jobs
 
 
 
 
 
 🌳 Java
-@jvmchat @javastart @ihunt_io_java
-@springboot_ru @springframeworkio
-@javarush @gradle @junit_ru @javafxru
-@java_underground @android_toothpick
-@vaadin_ru @dagger_2
+@jvmchat
+@javastart
+@ihunt_io_java
+@springboot_ru
+@springframeworkio
+@javarush
+@gradle
+@junit_ru
+@javafxru
+@java_underground
+@android_toothpick
+@vaadin_ru
+@dagger_2
 🌿 Kotlin
-@kotlin_start @kotlin_jvm @kotlin_js
-@kotlinlangru @kotlin_lang @kotlinchat
+@kotlin_start
+@kotlin_jvm
+@kotlin_js
+@kotlinlangru
+@kotlin_lang
+@kotlinchat
 🌿 Scala
- @scala_ru @scala_learn
+
+@scala_ru
+@scala_learn
 👨🏼‍💻 Работа
-@jvmjobschat @scala_jobs
+@jvmjobschat
+@scala_jobs
 
 
 
@@ -206,28 +295,36 @@
 🌳 Python
 @python_dark
 @chatpythonua
-@ru_python @propython
-@rudepython @pymentor
-@python_scripts @chatpython
+@ru_python
+@propython
+@rudepython
+@pymentor
+@python_scripts
+@chatpython
 🌿 Начинающим
 @pythonstepikchat
 @begeekprogramming
 @ru_python_beginners
 @tkhirianov_python_2019
-@python_noobs @python_for_dummies
+@python_noobs
+@python_for_dummies
 🌿 Web
 @scrapy_python
 @django_ukraine
 @django_framework
-@pydjango @ru_flask
-@fastapi_ru @aiohttp_ru
+@pydjango
+@ru_flask
+@fastapi_ru
+@aiohttp_ru
 🌿 Разное
 @sqlalchemy_help
 @micropython_faq_ru
-@ru_pyqt @pydata_chat
+@ru_pyqt
+@pydata_chat
 👨🏼‍💻 Работа
 @python_scripts_hr
-@python_jobs @django_jobs
+@python_jobs
+@django_jobs
 
 
 
@@ -235,7 +332,8 @@
 
 🌳 Ruby
 @rubyschool
-@rubyrush @pro_rb
+@rubyrush
+@pro_rb
 👨🏼‍💻 Работа
 @ruby_jobs
 
@@ -244,11 +342,14 @@
 
 
 🌳 Go
-@gogolang @golang_ru
-@golanghouse @golang_talk
+@gogolang
+@golang_ru
+@golanghouse
+@golang_talk
 👨🏼‍💻 Работа
 @golangjobchat
-@gogetajob @golang_jobs
+@gogetajob
+@golang_jobs
 
 
 
@@ -257,20 +358,29 @@
 🌳 Функциональное Программирование
 
 🌿 Scala
-@scala_ru @scala_learn
+@scala_ru
+@scala_learn
 🌿 Haskell
-@haskellru @haskell_learn
+@haskellru
+@haskell_learn
 🌿 Lisp
-@lisp_forever @lisp_ru
-@clojure_ru @scheme_ru
+@lisp_forever
+@lisp_ru
+@clojure_ru
+@scheme_ru
 🌿 Erlang и Elixir
-@erlangrus @proelixir @wunsh
+@erlangrus
+@proelixir
+@wunsh
 🌿 Другие
-@purescript_ru @elm_ru
-@fsharp_chat @reasonml_ru
+@purescript_ru
+@elm_ru
+@fsharp_chat
+@reasonml_ru
 👨🏼‍💻 Работа
 @haskell_cv
-@scala_jobs @clojure_jobs
+@scala_jobs
+@clojure_jobs
 
 
 
@@ -278,25 +388,52 @@
 
 🌳 Другие языки
 
-🌿 1С @ru_1c @ssl1c
-🌿 ABAP (SAP) @sapabap @sapintegration
-🌿 Ada @adalang @ada_ru_chat
-🌿 Basic @purebasicru
-🌿 Crystal @crystal_ru
-🌿 D @dlangru
-🌿 Dart @rudart @flutter_rus @artflutter
-🌿 Forth @ruforth
-🌿 Haxe @haxe_ru
-🌿 Julia @julialanguage
-🌿 Lua @prolua
-🌿 Nim @ru_nim_talks
-🌿 Pascal @delphi_lazarus @delphicommunity
-🌿 Perl @modernperl @useperlordie
-🌿 R @rlang_ru @hotliner_eu
-🌿 Raku @raku_language
-🌿 Swift @server_side_swift
-🌿 Vala @codefaq
-🌿 Zig @zig_ru
+🌿 1С
+@ru_1c
+@ssl1c
+🌿 ABAP (SAP)
+@sapabap
+@sapintegration
+🌿 Ada
+@adalang
+@ada_ru_chat
+🌿 Basic
+@purebasicru
+🌿 Crystal
+@crystal_ru
+🌿 D
+@dlangru
+🌿 Dart
+@rudart
+@flutter_rus
+@artflutter
+🌿 Forth
+@ruforth
+🌿 Haxe
+@haxe_ru
+🌿 Julia
+@julialanguage
+🌿 Lua
+@prolua
+🌿 Nim
+@ru_nim_talks
+🌿 Pascal
+@delphi_lazarus
+@delphicommunity
+🌿 Perl
+@modernperl
+@useperlordie
+🌿 R
+@rlang_ru
+@hotliner_eu
+🌿 Raku
+@raku_language
+🌿 Swift
+@server_side_swift
+🌿 Vala
+@codefaq
+🌿 Zig
+@zig_ru
 
 
 
@@ -306,13 +443,17 @@
 @fullstack_devs
 @web_dev_chat
 @jun_mid_backend
-@tip_prog @devschat
+@tip_prog
+@devschat
 @backend_js_samurai
-@annode @graphql_ru
-@ru_ldap @integration_ru
+@annode
+@graphql_ru
+@ru_ldap
+@integration_ru
 @backend_megdu_skobkah
 🌳 Message brokers
-@rabbitmq_ru @prokafka
+@rabbitmq_ru
+@prokafka
 
 
 
@@ -323,15 +464,20 @@
 https://t.me/joinchat/AAAAAD3M7FAk8tPhdcfVUA
 🌿 ВКонтакте
 @python273_vk_api
-@vkapichat @vkdotnet
-@vkwave @vkbottle_ru
+@vkapichat
+@vkdotnet
+@vkwave
+@vkbottle_ru
 🌿 Telegram
 @bot_devs_novice
-@telegrafjs_ru @botoid
+@telegrafjs_ru
+@botoid
 @inmotelegrambotapichat
-@rupyrogram @aiogram_ru
+@rupyrogram
+@aiogram_ru
 @pytelegrambotapi_talks_ru
-@telethonrussian @teloxide_ru
+@telethonrussian
+@teloxide_ru
 
 
 
@@ -341,18 +487,26 @@ https://t.me/joinchat/AAAAAD3M7FAk8tPhdcfVUA
 @heapofcode
 @phpize_online
 @phpgeeksjunior
-@prophp7 @php_chatik
-@phpclubru @codeidua
+@prophp7
+@php_chatik
+@phpclubru
+@codeidua
 🌿 Laravel
-@laravel_pro @laravelrus
-@laravel_web @livewire_ru
+@laravel_pro
+@laravelrus
+@laravel_web
+@livewire_ru
 🌿 Yii
-@yii1ru @yii2ru @yii3ru
+@yii1ru
+@yii2ru
+@yii3ru
 🌿 Symfony
 @symfony_php
-@symfony_ru @symfony
+@symfony_ru
+@symfony
 👨🏼‍💻 Работа
-@php_jobs @yiijobs
+@php_jobs
+@yiijobs
 
 
 
@@ -361,16 +515,22 @@ https://t.me/joinchat/AAAAAD3M7FAk8tPhdcfVUA
 🌳 CMS
 
 🌿 WordPress
-@ua_wp @ru_wp @wp4dev
-@c_wordpress @coderunphp
-@wordpress_ru @elementor_ru
+@ua_wp
+@ru_wp
+@wp4dev
+@c_wordpress
+@coderunphp
+@wordpress_ru
+@elementor_ru
 🌿 OpenCart
 @opencartofficial
 @opencartforumcom
 🌿 MODX
-@ru_modx @evolutioncms
+@ru_modx
+@evolutioncms
 🌿 Drupal
-@drupal_rus @drupal_beginner
+@drupal_rus
+@drupal_beginner
 🌿 Другие
 @joomlaru
 @octobercms_rus
@@ -384,55 +544,85 @@ https://t.me/joinchat/AAAAAD3M7FAk8tPhdcfVUA
 
 🌳 JavaScript и Frontend
 @fullstack_devs
-@js_ru @projs_ru @vofront
-@javascript_ninja @javascript_ru
-@frontend_ru @jschat @frontcoder
-@rxjs_ru @webpack_ru @jquery_ru
-@javascript_alert @webstandards_chat
+@js_ru
+@projs_ru
+@vofront
+@javascript_ninja
+@javascript_ru
+@frontend_ru
+@jschat
+@frontcoder
+@rxjs_ru
+@webpack_ru
+@jquery_ru
+@javascript_alert
+@webstandards_chat
 @webassembly_ru
 🌿 Начинающим
-@js_lib @js_noobs_ru
+@js_lib
+@js_noobs_ru
 @learning_programming_together
 🌿 JS-совместимые языки
 @purescript_ru
-@ts_cool @elm_ru
+@ts_cool
+@elm_ru
 🌿 Графика
 @gamedevforweb
-@webgl_ru @d3js_ru
+@webgl_ru
+@d3js_ru
 🌿 Node.js
-@nodejs_ru @nodeua
+@nodejs_ru
+@nodeua
 @backend_js_samurai
-@nest_ru @typeorm_ru
-@metaserverless @meteorjs_ru
+@nest_ru
+@typeorm_ru
+@metaserverless
+@meteorjs_ru
 @moleculerchat
 🌿 Desktop & Mobile
-@electron_cool @nwjs_ru
-@nativescript_ru @ionic_ru
-@reactnative_ru @reactnativesquad
+@electron_cool
+@nwjs_ru
+@nativescript_ru
+@ionic_ru
+@reactnative_ru
+@reactnativesquad
 👨🏼‍💻 Работа
-@javascript_jobs @vuejs_jobs
-@frontenduajobs @nodejs_jobs
+@javascript_jobs
+@vuejs_jobs
+@frontenduajobs
+@nodejs_jobs
 
 
 
 
 
 🌳 Frontend-фреймворки
-@sveltejs @ember_js
-@alpine_js @extjsrussia
+@sveltejs
+@ember_js
+@alpine_js
+@extjsrussia
 🌿 State Managers
-@mobxjs_ru @redux_ru
-@effector_ru @nanostores_talk
+@mobxjs_ru
+@redux_ru
+@effector_ru
+@nanostores_talk
 🌿 React
-@react_js @react_ru
-@reactjs_samurai @nextjs_ru
-@atomicdesign @gatsbyjs_ru
+@react_js
+@react_ru
+@reactjs_samurai
+@nextjs_ru
+@atomicdesign
+@gatsbyjs_ru
 🌿 Angular
-@angular_js @angular_ru
-@taiga_ui @angular_universal_ru
+@angular_js
+@angular_ru
+@taiga_ui
+@angular_universal_ru
 🌿 Vue
-@vuejs_ru @vuejs_club
-@nuxtjs_ru @quasar_ru
+@vuejs_ru
+@vuejs_club
+@nuxtjs_ru
+@quasar_ru
 
 
 
@@ -443,8 +633,12 @@ https://t.me/joinchat/AAAAAD3M7FAk8tPhdcfVUA
 @getbootstrap_ru
 @chat_from_0_to_1
 @prostorazrabotkachat
-@css_ru @web_structure @flschat
-@tpverstakchat @html_mentor @chathtml
+@css_ru
+@web_structure
+@flschat
+@tpverstakchat
+@html_mentor
+@chathtml
 
 
 
@@ -454,9 +648,11 @@ https://t.me/joinchat/AAAAAD3M7FAk8tPhdcfVUA
 @figmachat
 @designchat2
 @webdesign_ru
-@uiux_ru @uxchat
+@uiux_ru
+@uxchat
 @webdesignguruchat
-@ui_club @dev_design
+@ui_club
+@dev_design
 👨🏼‍💻 Работа
 @uiux_jobs
 
@@ -466,10 +662,13 @@ https://t.me/joinchat/AAAAAD3M7FAk8tPhdcfVUA
 
 🌳 Хостинги
 @yandexcloud_chat
-@aws_ru @heroku_ru
+@aws_ru
+@heroku_ru
 @yandexcloudfunctions
-@azure_russia @goo_cloud_ru
-@selectelcommunity @timeweb_chat
+@azure_russia
+@goo_cloud_ru
+@selectelcommunity
+@timeweb_chat
 
 
 
@@ -478,8 +677,12 @@ https://t.me/joinchat/AAAAAD3M7FAk8tPhdcfVUA
 🌳 Безопасность
 https://t.me/joinchat/AL6jEUFFW5TFS1s3pZMMjg
 @cb_sec
-@secinfosec @mrl_hack @webpwnchat
-@ru_cryptography @thecodeby @metasploitru
+@secinfosec
+@mrl_hack
+@webpwnchat
+@ru_cryptography
+@thecodeby
+@metasploitru
 @pentesting_chat
 
 
@@ -487,28 +690,41 @@ https://t.me/joinchat/AL6jEUFFW5TFS1s3pZMMjg
 
 
 🌳 DevOps
-@devops_ru @ru_devops
-@ru_logs @devsecops_ru
-@srv_admins @ru_systemd
-@nginx_ru @envoyproxy_ru
-@ru_proxmox @ru_hashicorp
-@traefik_ru @ru_nexus_sonatype
+@devops_ru
+@ru_devops
+@ru_logs
+@devsecops_ru
+@srv_admins
+@ru_systemd
+@nginx_ru
+@envoyproxy_ru
+@ru_proxmox
+@ru_hashicorp
+@traefik_ru
+@ru_nexus_sonatype
 🌿 Docker
-@docker_ru @ru_docker
+@docker_ru
+@ru_docker
 🌿 Kubernetes
 @kubernetes_ru
-@werf_ru @deckhouse_ru
+@werf_ru
+@deckhouse_ru
 🌿 CI / CD
-@jenkins_ru @ru_jenkins
-@ru_gitlab @github_action_ru
+@jenkins_ru
+@ru_jenkins
+@ru_gitlab
+@github_action_ru
 🌿 Конфигурирование
 @terraform_ru
-@pro_ansible @puppet_ru
+@pro_ansible
+@puppet_ru
 🌿 Мониторинг
 @metrics_ru
 @victoriametrics_ru1
-@prozabbix @zabbixpro
-@zabbixjunior @grafana_ru
+@prozabbix
+@zabbixpro
+@zabbixjunior
+@grafana_ru
 👨🏼‍💻 Работа
 @devops_jobs
 
@@ -518,40 +734,56 @@ https://t.me/joinchat/AL6jEUFFW5TFS1s3pZMMjg
 
 🌳 Тестирование
 https://t.me/+Thq0wPneQ2FLTx0O
-@qa_ru @qa_ua
-@qa_load @qa_courses
-@qajuniors @atinfo_chat
-@qa_chatka @qa_mentors
-@qa_automation @qareview
+@qa_ru
+@qa_ua
+@qa_load
+@qa_courses
+@qajuniors
+@atinfo_chat
+@qa_chatka
+@qa_mentors
+@qa_automation
+@qareview
 👨🏼‍💻 Работа
 @qa_ua_jobs
-@qa_jobs @qa_fin
+@qa_jobs
+@qa_fin
 
 
 
 
 
 🌳 Базы Данных
-@dba_ru @sql_ninja
-@dbmsdev @dbgeeks
+@dba_ru
+@sql_ninja
+@dbmsdev
+@dbgeeks
 @sqlize
 🌿 PostgreSQL
-@pgsql @postgis
+@pgsql
+@postgis
 @pgcodekeeper
 @postgresql_1c_linux
 🌿 SQL Server
-@sqlcom @mssql_ru
+@sqlcom
+@mssql_ru
 🌿 MySQL и Oracle
-@mysql_db @ru_mysql
-@oracle_ru @oracle_dba_ru
+@mysql_db
+@ru_mysql
+@oracle_ru
+@oracle_dba_ru
 🌿 Elasticsearch
-@elasticsearch_ru @elk_ru
+@elasticsearch_ru
+@elk_ru
 🌿 Другие
 @clickhouse_ru
 @victoriametrics_ru1
-@mongodb_ru @reindexer
-@access_chat @tarantoolru
-@cassandra_ru @ru_scylladb
+@mongodb_ru
+@reindexer
+@access_chat
+@tarantoolru
+@cassandra_ru
+@ru_scylladb
 
 
 
@@ -560,9 +792,12 @@ https://t.me/+Thq0wPneQ2FLTx0O
 🌳 Desktop-разработка
 @wxwidgetsru
 @electron_cool
-@qt_chat @ru_pyqt
-@gtkchat @javafxru
-@uwp_ru @avaloniaru
+@qt_chat
+@ru_pyqt
+@gtkchat
+@javafxru
+@uwp_ru
+@avaloniaru
 
 
 
@@ -571,50 +806,73 @@ https://t.me/+Thq0wPneQ2FLTx0O
 🌳 Мобильная разработка
 @faangmobile
 🌿 Android
-@android_ru @ndk_ru
-@kotlin_mobile @kotlinchat
-@moxy_ru @android_declarative
-@android_architecture @androidev
-@startandroidchat @android_guards
+@android_ru
+@ndk_ru
+@kotlin_mobile
+@kotlinchat
+@moxy_ru
+@android_declarative
+@android_architecture
+@androidev
+@startandroidchat
+@android_guards
 🌿 iOS
-@ios_ru @swiftbook_chat @usovswift
+@ios_ru
+@swiftbook_chat
+@usovswift
 🌿 Cross-platform
 @artflutter
 @xamarin_russia
-@rudart @flutter_rus
-@ionic_ru @nativescript_ru
-@reactnative_ru @reactnativesquad
+@rudart
+@flutter_rus
+@ionic_ru
+@nativescript_ru
+@reactnative_ru
+@reactnativesquad
 👨🏼‍💻 Работа
 @xamarin_jobs
-@mobile_jobs @produckty
+@mobile_jobs
+@produckty
 
 
 
 
 
 🌳 Embedded Systems
-@proembedded @embedded_rs
-@fpgasystems @fpgasystems_embd
-@proiot @yahardwarechat
+@proembedded
+@embedded_rs
+@fpgasystems
+@fpgasystems_embd
+@proiot
+@yahardwarechat
 @micropython_faq_ru
 🌿 STM32
-@stm32std @stm_32
+@stm32std
+@stm_32
 @telecatethysis_main
 🌿 ESP8266, ESP32
 @pro_esp8266
-@proesp8266 @esp32_ru
+@proesp8266
+@esp32_ru
 🌿 Другие
-@proarduino @arduinopro
-@proarm @raspberry_develop
+@proarduino
+@arduinopro
+@proarm
+@raspberry_develop
 
 
 
 
 
 🌳 Электроника
-@easyelectronics_and_mhl @retrocomps
-@prohardware @ru_electronics @electronix
-@chat_electrikov @electrical_science @montaj220
+@easyelectronics_and_mhl
+@retrocomps
+@prohardware
+@ru_electronics
+@electronix
+@chat_electrikov
+@electrical_science
+@montaj220
 @slabotochniki
 
 
@@ -625,9 +883,12 @@ https://t.me/+Thq0wPneQ2FLTx0O
 @parallelcoding
 @faanginterviewua
 @tkhirianov_cpp_algo
-@unilecs_chat @l33tcode
-@proalgorithms supapro.algorithms
-@faanginterview @faangtechinterview
+@unilecs_chat
+@l33tcode
+@proalgorithms
+https://t.me/joinchat/BYlFbEHb2qH6V1-rpTX0pA
+@faanginterview
+@faangtechinterview
 https://t.me/joinchat/Ve7wRegrZtI0NjIy
 
 
@@ -635,11 +896,21 @@ https://t.me/joinchat/Ve7wRegrZtI0NjIy
 
 
 🌳 Математика
-@promath_ru @starter_math @ma4at
-@ru_cryptography @matlab_ru @pro_latex
-@symboliclogic @typ_math_chat @physpub
-@math_code @higher_math @comput_math
-@matematika_org @matheden @ru_catheory
+@promath_ru
+@starter_math
+@ma4at
+@ru_cryptography
+@matlab_ru
+@pro_latex
+@symboliclogic
+@typ_math_chat
+@physpub
+@math_code
+@higher_math
+@comput_math
+@matematika_org
+@matheden
+@ru_catheory
 @math2elp
 
 
@@ -649,21 +920,35 @@ https://t.me/joinchat/Ve7wRegrZtI0NjIy
 🌳 Графика и GameDev
 @physicitgamedev
 @rust_gamedev_ru
-@prographon @legalgd
-@datsgamedev @network_devs
+@prographon
+@legalgd
+@datsgamedev
+@network_devs
 🌿 Игровые Движки
-@defoldengine @renpyru
-@coronaru @godot_engine
-@unrealengine4 @love2d_ru
-@unity_cg @unity_tech_learn
-@unity3d_ru @unity_architecture
+@defoldengine
+@renpyru
+@coronaru
+@godot_engine
+@unrealengine4
+@love2d_ru
+@unity_cg
+@unity_tech_learn
+@unity3d_ru
+@unity_architecture
 🌿 Графика в Web
 @gamedevforweb
-@webgl_ru @d3js_ru
+@webgl_ru
+@d3js_ru
 🌿 3D-моделирование
-@blender_ru @blen_coders
-@ohmy3dsmax @maya3d @dadapasha_chat
-@modo_art @thefoundrymari @zbrush_ru @cine4at
+@blender_ru
+@blen_coders
+@ohmy3dsmax
+@maya3d
+@dadapasha_chat
+@modo_art
+@thefoundrymari
+@zbrush_ru
+@cine4at
 @substancepainterdesignerru
 
 
@@ -672,63 +957,91 @@ https://t.me/joinchat/Ve7wRegrZtI0NjIy
 
 🌳 Data Science, ML, AI
 @neyronnye_seti
-@ai_life @bigdata_ru @nlp_ru
-@datasciencechat @hotliner_eu
-@opencv_ru @datasciencecourse
-@machinee_learning @loginom_chat
-@julialanguage @rlang_ru @pydata_chat
-@faangdatascience @speech_recognition_ru
-@proanaliziruem @hadoopusers @istories_helloworld
+@ai_life
+@bigdata_ru
+@nlp_ru
+@datasciencechat
+@hotliner_eu
+@opencv_ru
+@datasciencecourse
+@machinee_learning
+@loginom_chat
+@julialanguage
+@rlang_ru
+@pydata_chat
+@faangdatascience
+@speech_recognition_ru
+@proanaliziruem
+@hadoopusers
+@istories_helloworld
 @qlikru
 🌿 Визуализация
-@tableaurussia @tableau_ukraine
-@tableau_chat @pbi_rus @power_bi_support
+@tableaurussia
+@tableau_ukraine
+@tableau_chat
+@pbi_rus
+@power_bi_support
 
 
 
 
 
 🌳 Маркетинг и SEO
-@seochat @seo_burzh_chat
-@tech_seo @targetcommunity
+@seochat
+@seo_burzh_chat
+@tech_seo
+@targetcommunity
 
 
 
 
 
 🌳 Офисное ПО
-@libreofficeru @pro_latex
+@libreofficeru
+@pro_latex
 🌿 Microsoft
-@wh_chat @eh_chat
-@excel_ru @access_chat
-@power_bi_support @pbi_rus
+@wh_chat
+@eh_chat
+@excel_ru
+@access_chat
+@power_bi_support
+@pbi_rus
 🌿 Google
 @google_spreadsheets_chat
-@googleappsscriptrc @gsuiterc
+@googleappsscriptrc
+@gsuiterc
 
 
 
 
 
 🌳 Работа и проекты
-@any_work_ua @contests_ru
+@any_work_ua
+@contests_ru
 @overemployed
-@tlbootcamp @teamleadtalks
-@startup_founder @upworkcom
-@ru_freelancers @richlance_chat
+@tlbootcamp
+@teamleadtalks
+@startup_founder
+@upworkcom
+@ru_freelancers
+@richlance_chat
 🌿 Резюме и собеседования
 InterviewsSchoolKZ
 @resume_review
-@faanginterviewua @faangmobile
-@faanginterview @faangtechinterview
+@faanginterviewua
+@faangmobile
+@faanginterview
+@faangtechinterview
 
 
 
 
 
 🌳 OpenSource-проекты
-@metaserverless @aspia_ru
-@murrenganchat @rocketchatru
+@metaserverless
+@aspia_ru
+@murrenganchat
+@rocketchatru
 
 
 
@@ -737,7 +1050,8 @@ InterviewsSchoolKZ
 🌳 Криптовалюты
 @solana_dev_ru
 @cyberacademy
-@eth_ru @eth_dev
+@eth_ru
+@eth_dev
 
 
 
@@ -748,22 +1062,30 @@ InterviewsSchoolKZ
 @cctvclub_chat
 @crestbook_chat
 @zettelkasten_ru
-@regex_ru @hexletlegal
-@ffmpeg_ru @ru_montage
-@bitrix24help @bitrix24helper
+@regex_ru
+@hexletlegal
+@ffmpeg_ru
+@ru_montage
+@bitrix24help
+@bitrix24helper
 🌿 3D-печать
-@ender_3 @photonsters
-@pro_3dprint @ru3dprinting
+@ender_3
+@photonsters
+@pro_3dprint
+@ru3dprinting
 🌿 ГИС
-@gislab @nextgis_chat
+@gislab
+@nextgis_chat
 
 
 
 
 
 🌳 Полезные боты
-@get_id_bot @showjsonbot
-@inlatexbot @rextester_bot
+@get_id_bot
+@showjsonbot
+@inlatexbot
+@rextester_bot
 
 
 
