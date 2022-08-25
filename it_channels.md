@@ -53,7 +53,7 @@ https://t.me/itliba
 https://t.me/itlibrary
 
 ---
-  
+
 🌳 Новости IT  
 https://t.me/netpost  
 https://t.me/lthub  
@@ -61,7 +61,7 @@ https://t.me/your_tech
 https://t.me/windows_insiders10
 
 ---
-  
+
 🌳 Linux  
 https://t.me/linux_n_linus  
 https://t.me/losstofficial  
@@ -79,7 +79,7 @@ https://t.me/gnome_feed
 https://t.me/kde_ru_news
 
 ---
-  
+
 🌳 C++  
 https://t.me/thisnotes  
 https://t.me/cpp_aggregator  
@@ -99,7 +99,7 @@ https://t.me/joinchat/AAAAAEagyMhguWVs_iSYnw
 https://t.me/rabotaembedded
 
 ---
-  
+
 🌳 .NET  
 https://t.me/codaza  
 https://t.me/dotnetreview  
@@ -118,7 +118,7 @@ https://t.me/dotnetrujobsfeed
 https://t.me/csharpdevjob
 
 ---
-  
+
 🌳 Java  
 https://t.me/xpinjection_channel  
 https://t.me/javaproglib  
@@ -144,7 +144,7 @@ https://t.me/scala_jobs_feed
 https://t.me/kotlin_jobs
 
 ---
-  
+
 🌳 Python  
 https://t.me/dark_pyth0n  
 https://t.me/python_textbooks  
@@ -169,7 +169,7 @@ https://t.me/pydevjob
 https://t.me/python_jobs_jooby
 
 ---
-  
+
 🌳 Go  
 https://t.me/go_in_action  
 https://t.me/golang_interview  
@@ -185,7 +185,7 @@ https://t.me/godevjob
 https://t.me/golang_job
 
 ---
-  
+
 🌳 Другие языки  
 https://t.me/ru_nim  
 https://t.me/scala_channel_ru  
@@ -195,7 +195,7 @@ https://t.me/proelixir_news
 https://t.me/elixir_formula
 
 ---
-  
+
 🌳 Web-раразботка  
 https://t.me/botfatherdev  
 https://t.me/davidobryakov  
@@ -206,7 +206,7 @@ https://t.me/baldfrombrowser
 https://t.me/webstandards_ru
 
 ---
-  
+
 🌳 PHP  
 https://t.me/beerphp  
 https://t.me/news_wordpress  
@@ -223,7 +223,7 @@ https://t.me/wordpress_jobs
 https://t.me/drupalclients
 
 ---
-  
+
 🌳 HTML и CSS  
 https://t.me/it_sandbox  
 https://t.me/glo_academy  
@@ -242,7 +242,7 @@ https://t.me/layouts_figma
 https://t.me/figma_templates
 
 ---
-  
+
 🌳 JavaScript и Frontend  
 https://t.me/front_end_dev  
 https://t.me/typicalfrontend  
@@ -277,7 +277,7 @@ https://t.me/vuejs_jobs_feed
 https://t.me/nodejs_jobs_feed
 
 ---
-  
+
 🌳 Дизайн  
 https://t.me/dezzigners  
 https://t.me/dropzz  
@@ -285,7 +285,7 @@ https://t.me/webdesigndaily
 https://t.me/uxidesign
 
 ---
-  
+
 🌳 Базы Данных  
 https://t.me/dbbooks  
 https://t.me/database_group  
@@ -294,7 +294,7 @@ https://t.me/sql_wiki
 https://t.me/databases_secrets
 
 ---
-  
+
 🌳 Тестирование  
 https://t.me/atinfo  
 https://t.me/testerlib  
@@ -312,7 +312,7 @@ https://t.me/qaload_job
 https://t.me/qa_jobs_jooby
 
 ---
-  
+
 🌳 DevOps  
 https://t.me/devopsengineer  
 https://t.me/devopsslib  
@@ -329,7 +329,7 @@ https://t.me/fordevops
 https://t.me/devops_jobs_feed
 
 ---
-  
+
 🌳 Сети, администрирование  
 https://t.me/sysadmin1  
 https://t.me/sysadminof  
@@ -341,7 +341,7 @@ https://t.me/sysadminsu
 https://t.me/ntwrkchnnl
 
 ---
-  
+
 🌳 Безопасность  
 https://t.me/overlamer1  
 https://t.me/hlfiles  
@@ -359,7 +359,7 @@ https://t.me/webpwn
 https://t.me/alexmakus
 
 ---
-  
+
 🌳 Мобильная разработка  
 https://t.me/androidsobes  
 https://t.me/startandroid  
@@ -377,7 +377,7 @@ https://t.me/mobiledevjob
 https://t.me/mobile_jobs_feed
 
 ---
-  
+
 🌳 Embedded Systems  
 https://t.me/embedded_books  
 https://t.me/fpgasic  
@@ -388,7 +388,7 @@ https://t.me/vw_tooltips
 https://t.me/embedoka
 
 ---
-  
+
 🌳 Математика и Алгоритмы  
 https://t.me/parallelcode  
 https://t.me/coding_interviews  
@@ -400,7 +400,7 @@ https://t.me/pomatematike
 https://t.me/cme_channel
 
 ---
-  
+
 🌳 Data Science, ML, AI  
 https://t.me/hadoopgirl  
 https://t.me/data_science_wiki  
@@ -419,7 +419,7 @@ https://t.me/datajob
 https://t.me/data_hr
 
 ---
-  
+
 🌳 Графика и GameDev  
 https://t.me/poly3ds  
 https://t.me/unity_3d_home  
@@ -433,7 +433,7 @@ https://t.me/defoldnews
 https://t.me/korovany
 
 ---
-  
+
 🌳 OpenSource  
 https://t.me/open_source_friend  
 https://t.me/github_repos  
@@ -442,7 +442,7 @@ https://t.me/opensourcefuture
 https://t.me/github_community
 
 ---
-  
+
 🌳 Работа и карьера  
 https://t.me/bbblmag  
 https://t.me/soft_skillz  
@@ -455,7 +455,7 @@ https://t.me/gromov_com
 https://t.me/myobrechenychannel
 
 ---
-  
+
 🌳 Другое  
 https://t.me/macos_expert  
 https://t.me/recent_it_articles  
@@ -472,7 +472,7 @@ https://t.me/prog_tools
 https://t.me/developer_tools
 
 ---
-  
+
 🌳 Юмор  
 https://t.me/profunctor_io  
 https://t.me/olegizvini  

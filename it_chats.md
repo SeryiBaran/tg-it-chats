@@ -66,7 +66,7 @@ https://t.me/autohotkey2
 https://t.me/autoit_ru
 
 ---
-  
+
 🌳 Linux: общие вопросы  
 https://t.me/linuzua  
 https://t.me/grouplinux  
@@ -92,9 +92,9 @@ https://t.me/i3wm_ru
 https://t.me/tiling_wm_mastery
 
 ---
-  
+
 🌳 Linux: дистрибутивы  
-  
+
 🌿 RedHat  
 https://t.me/russianfedora  
 https://t.me/centos_ru  
@@ -130,7 +130,7 @@ https://t.me/russian_gentoo
 https://t.me/ru_opensuse
 
 ---
-  
+
 🌳 Другие ОС  
 https://t.me/msdos_pc  
 https://t.me/haiku_ru  
@@ -149,7 +149,7 @@ https://t.me/macosx86
 https://t.me/ios12cydia
 
 ---
-  
+
 🌳 Компьютерное Железо  
 https://t.me/recoveryhelp  
 https://t.me/russiancpu  
@@ -162,7 +162,7 @@ https://t.me/nspprt
 https://t.me/help_remont
 
 ---
-  
+
 🌳 Компьютерные Сети  
 https://t.me/evilwirelesschat  
 https://t.me/ru_ipv6  
@@ -178,7 +178,7 @@ https://t.me/meshnet
 https://t.me/yggdrasil_ru
 
 ---
-  
+
 🌳 Программирование  
 https://t.me/pro_prog  
 https://t.me/coding_ru  
@@ -198,7 +198,7 @@ https://t.me/languagedev
 https://t.me/lang_idioms
 
 ---
-  
+
 🌳 Инструменты разработчика  
 https://t.me/postman_by  
 https://t.me/git_cool  
@@ -217,7 +217,7 @@ https://t.me/pro_sublime
 https://t.me/sublimetext_ru
 
 ---
-  
+
 🌳 Системное программирование  
 https://t.me/compilerdev  
 https://t.me/sys_beginners_ru  
@@ -227,7 +227,7 @@ https://t.me/proasm
 https://t.me/chatassembler
 
 ---
-  
+
 🌳 C и C++  
 https://t.me/cppua  
 https://t.me/pure_c  
@@ -244,7 +244,7 @@ https://t.me/probuildsystems
 https://t.me/corehard_by
 
 ---
-  
+
 🌳 Rust  
 https://t.me/rustlang_ua  
 https://t.me/rustlang_ru  
@@ -257,8 +257,8 @@ https://t.me/embedded_rs
 https://t.me/rust_jobs
 
 ---
-  
-  
+
+
 🌳 .NET (C#, F#)  
 https://t.me/dotnetruchat  
 https://t.me/csharp_cplus  
@@ -287,7 +287,7 @@ https://t.me/dotnetrujobs
 https://t.me/xamarin_jobs
 
 ---
-  
+
 🌳 Java  
 https://t.me/jvmchat  
 https://t.me/javastart  
@@ -310,7 +310,7 @@ https://t.me/kotlinlangru
 https://t.me/kotlin_lang  
 https://t.me/kotlinchat  
 🌿 Scala  
-  
+
 https://t.me/scala_ru  
 https://t.me/scala_learn  
 👨🏼‍💻 Работа  
@@ -318,7 +318,7 @@ https://t.me/jvmjobschat
 https://t.me/scala_jobs
 
 ---
-  
+
 🌳 Python  
 https://t.me/python_dark  
 https://t.me/chatpythonua  
@@ -354,7 +354,7 @@ https://t.me/python_jobs
 https://t.me/django_jobs
 
 ---
-  
+
 🌳 Ruby  
 https://t.me/rubyschool  
 https://t.me/rubyrush  
@@ -363,7 +363,7 @@ https://t.me/pro_rb
 https://t.me/ruby_jobs
 
 ---
-  
+
 🌳 Go  
 https://t.me/gogolang  
 https://t.me/golang_ru  
@@ -375,9 +375,9 @@ https://t.me/gogetajob
 https://t.me/golang_jobs
 
 ---
-  
+
 🌳 Функциональное Программирование  
-  
+
 🌿 Scala  
 https://t.me/scala_ru  
 https://t.me/scala_learn  
@@ -404,9 +404,9 @@ https://t.me/scala_jobs
 https://t.me/clojure_jobs
 
 ---
-  
+
 🌳 Другие языки  
-  
+
 🌿 1С  
 https://t.me/ru_1c  
 https://t.me/ssl1c  
@@ -455,7 +455,7 @@ https://t.me/codefaq
 https://t.me/zig_ru
 
 ---
-  
+
 🌳 Backend-раразботка  
 https://t.me/fullstack_devs  
 https://t.me/web_dev_chat  
@@ -473,7 +473,7 @@ https://t.me/rabbitmq_ru
 https://t.me/prokafka
 
 ---
-  
+
 🌳 Разработка ботов  
 https://t.me/yadialogschat  
 https://t.me/joinchat/AAAAAD3M7FAk8tPhdcfVUA  
@@ -522,9 +522,9 @@ https://t.me/php_jobs
 https://t.me/yiijobs
 
 ---
-  
+
 🌳 CMS  
-  
+
 🌿 WordPress  
 https://t.me/ua_wp  
 https://t.me/ru_wp  
@@ -550,7 +550,7 @@ https://t.me/bitrixfordevelopers
 https://t.me/bitrix_work
 
 ---
-  
+
 🌳 JavaScript и Frontend  
 https://t.me/fullstack_devs  
 https://t.me/js_ru  
@@ -602,7 +602,7 @@ https://t.me/frontenduajobs
 https://t.me/nodejs_jobs
 
 ---
-  
+
 🌳 Frontend-фреймворки  
 https://t.me/sveltejs  
 https://t.me/ember_js  
@@ -632,7 +632,7 @@ https://t.me/nuxtjs_ru
 https://t.me/quasar_ru
 
 ---
-  
+
 🌳 HTML и CSS  
 https://t.me/tailwindcss_rus  
 https://t.me/getbootstrap_ru  
@@ -646,7 +646,7 @@ https://t.me/html_mentor
 https://t.me/chathtml
 
 ---
-  
+
 🌳 UI и UX  
 https://t.me/figmachat  
 https://t.me/designchat2  
@@ -660,7 +660,7 @@ https://t.me/dev_design
 https://t.me/uiux_jobs
 
 ---
-  
+
 🌳 Хостинги  
 https://t.me/yandexcloud_chat  
 https://t.me/aws_ru  
@@ -672,7 +672,7 @@ https://t.me/selectelcommunity
 https://t.me/timeweb_chat
 
 ---
-  
+
 🌳 Безопасность  
 https://t.me/joinchat/AL6jEUFFW5TFS1s3pZMMjg  
 https://t.me/cb_sec  
@@ -685,7 +685,7 @@ https://t.me/metasploitru
 https://t.me/pentesting_chat
 
 ---
-  
+
 🌳 DevOps  
 https://t.me/devops_ru  
 https://t.me/ru_devops  
@@ -726,7 +726,7 @@ https://t.me/grafana_ru
 https://t.me/devops_jobs
 
 ---
-  
+
 🌳 Тестирование  
 https://t.me/+Thq0wPneQ2FLTx0O  
 https://t.me/qa_ru  
@@ -745,7 +745,7 @@ https://t.me/qa_jobs
 https://t.me/qa_fin
 
 ---
-  
+
 🌳 Базы Данных  
 https://t.me/dba_ru  
 https://t.me/sql_ninja  
@@ -779,7 +779,7 @@ https://t.me/cassandra_ru
 https://t.me/ru_scylladb
 
 ---
-  
+
 🌳 Desktop-разработка  
 https://t.me/wxwidgetsru  
 https://t.me/electron_cool  
@@ -791,7 +791,7 @@ https://t.me/uwp_ru
 https://t.me/avaloniaru
 
 ---
-  
+
 🌳 Мобильная разработка  
 https://t.me/faangmobile  
 🌿 Android  
@@ -824,7 +824,7 @@ https://t.me/mobile_jobs
 https://t.me/produckty
 
 ---
-  
+
 🌳 Embedded Systems  
 https://t.me/proembedded  
 https://t.me/embedded_rs  
@@ -848,7 +848,7 @@ https://t.me/proarm
 https://t.me/raspberry_develop
 
 ---
-  
+
 🌳 Электроника  
 https://t.me/easyelectronics_and_mhl  
 https://t.me/retrocomps  
@@ -861,7 +861,7 @@ https://t.me/montaj220
 https://t.me/slabotochniki
 
 ---
-  
+
 🌳 Алгоритмы  
 https://t.me/parallelcoding  
 https://t.me/faanginterviewua  
@@ -875,7 +875,7 @@ https://t.me/faangtechinterview
 https://t.me/joinchat/Ve7wRegrZtI0NjIy
 
 ---
-  
+
 🌳 Математика  
 https://t.me/promath_ru  
 https://t.me/starter_math  
@@ -895,7 +895,7 @@ https://t.me/ru_catheory
 https://t.me/math2elp
 
 ---
-  
+
 🌳 Графика и GameDev  
 https://t.me/physicitgamedev  
 https://t.me/rust_gamedev_ru  
@@ -931,7 +931,7 @@ https://t.me/cine4at
 https://t.me/substancepainterdesignerru
 
 ---
-  
+
 🌳 Data Science, ML, AI  
 https://t.me/neyronnye_seti  
 https://t.me/ai_life  
@@ -960,7 +960,7 @@ https://t.me/pbi_rus
 https://t.me/power_bi_support
 
 ---
-  
+
 🌳 Маркетинг и SEO  
 https://t.me/seochat  
 https://t.me/seo_burzh_chat  
@@ -968,7 +968,7 @@ https://t.me/tech_seo
 https://t.me/targetcommunity
 
 ---
-  
+
 🌳 Офисное ПО  
 https://t.me/libreofficeru  
 https://t.me/pro_latex  
@@ -985,7 +985,7 @@ https://t.me/googleappsscriptrc
 https://t.me/gsuiterc
 
 ---
-  
+
 🌳 Работа и проекты  
 https://t.me/any_work_ua  
 https://t.me/contests_ru  
@@ -1005,7 +1005,7 @@ https://t.me/faanginterview
 https://t.me/faangtechinterview
 
 ---
-  
+
 🌳 OpenSource-проекты  
 https://t.me/metaserverless  
 https://t.me/aspia_ru  
@@ -1013,7 +1013,7 @@ https://t.me/murrenganchat
 https://t.me/rocketchatru
 
 ---
-  
+
 🌳 Криптовалюты  
 https://t.me/solana_dev_ru  
 https://t.me/cyberacademy  
@@ -1021,7 +1021,7 @@ https://t.me/eth_ru
 https://t.me/eth_dev
 
 ---
-  
+
 🌳 Разное  
 https://t.me/moyskladapi  
 https://t.me/cctvclub_chat  
@@ -1043,7 +1043,7 @@ https://t.me/gislab
 https://t.me/nextgis_chat
 
 ---
-  
+
 🌳 Полезные боты  
 https://t.me/get_id_bot  
 https://t.me/showjsonbot  

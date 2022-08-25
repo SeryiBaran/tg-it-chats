@@ -50,20 +50,20 @@ https://t.me/freebsd1
 https://t.me/dflybsd
 
 ---
-  
+
 🌳 Programming  
 https://t.me/linuxkernelnewbies  
 Functional Programming
 
 ---
-  
+
 🌳 IDE  
 https://t.me/neovim  
 https://t.me/emacs_en  
 https://t.me/emacs_telega
 
 ---
-  
+
 🌳 C & C++  
 https://t.me/joinchat/AAAAAD_cJVeMzHBQMtxB5w  
 https://t.me/programminginc  
@@ -72,7 +72,7 @@ https://t.me/cppunchainedgroup
 https://t.me/c_cpp_india
 
 ---
-  
+
 🌳 Java  
 https://t.me/javaprogrammingchat  
 https://t.me/springbootmicroservices  
@@ -81,7 +81,7 @@ https://t.me/joinchat/AAAAAEHS8_F0yoL401QNuQ
 https://t.me/hibernatechat
 
 ---
-  
+
 🌳 Python  
 https://t.me/python  
 https://t.me/django  
@@ -95,7 +95,7 @@ https://t.me/peeweechat
 https://t.me/python_starlette
 
 ---
-  
+
 🌳 JavaScript & Frontend  
 https://t.me/joinchat/AAAAAEEU-CGtxqPvZzRXug  
 https://t.me/javascriptgroup  
@@ -110,9 +110,9 @@ https://t.me/react_en
 https://t.me/reactnative_devs
 
 ---
-  
+
 🌳 Other Languages  
-  
+
 🌿 Ada  
 https://t.me/ada_lang  
 🌿 C#  
@@ -144,7 +144,7 @@ https://t.me/scala_en
 https://t.me/vlang_en
 
 ---
-  
+
 🌳 Computer Graphics & GameDev  
 https://t.me/blender_en  
 https://t.me/pygameworld  
@@ -154,20 +154,20 @@ https://t.me/love2dusers
 https://t.me/godotengineenglish
 
 ---
-  
+
 🌳 Mobile Development  
 https://t.me/joinchat/AAAAAEFs51MT1z2bWDhZBQ  
 https://t.me/joinchat/A3_yckO2QyZXpvLs6p-0Ig
 
 ---
-  
+
 🌳 DevOps & Cloud  
 https://t.me/joinchat/BkBvqULzhcG1AhRE7ljMyg  
 https://t.me/awsamazon  
 https://t.me/devops_network_forum
 
 ---
-  
+
 🌳 Databases  
 https://t.me/joinchat/BkBvqUzFvqKt9MhX1Rqlpw  
 https://t.me/sqlize  
@@ -177,7 +177,7 @@ https://t.me/mongo_db
 https://t.me/tarantool
 
 ---
-  
+
 🌳 Telegram API  
 https://t.me/teloxide  
 https://t.me/go_telegram_bot_api  
@@ -189,13 +189,13 @@ https://t.me/joinchat/Bn4ixj84FIZVkwhk2jag6A
 https://t.me/joinchat/B35YY0QbLfd034CFnvCtCA
 
 ---
-  
+
 🌳 Algorithms  
 https://t.me/progsolution  
 https://t.me/codeforcesgroup
 
 ---
-  
+
 🌳 Data Science & Machine Learning  
 https://t.me/pydataco  
 https://t.me/bigdata_en  
@@ -204,7 +204,7 @@ https://t.me/joinchat/BkBvqUpFD0AbUY7Uku-j9w
 https://t.me/joinchat/BkBvqUd2e0lSFNj8yQT3eA
 
 ---
-  
+
 🌳 Other  
 https://t.me/joinchat/AAAAAEKREgzW3ypwIjRwpQ  
 https://t.me/profpga  
@@ -217,7 +217,7 @@ https://t.me/guildofsysadmin
 https://t.me/guildtavern
 
 ---
-  
+
 🆕 What's new?  
 https://t.me/octobercms  
 https://t.me/dlanggroup
