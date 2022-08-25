@@ -1,6 +1,6 @@
 # it_chats_en
 
-## Contents
+## Contents (no links yet)
 
 - Operating Systems
 - Programming
